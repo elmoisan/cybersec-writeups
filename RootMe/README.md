@@ -15,7 +15,7 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | [Steganography](./Steganography/)    | Steganography   |   0    |
 | [Network](./Network/)                | Network         |   0    |
 | [Forensics](./Forensics/)            | Forensics       |   0    |
-| [App-Script](./App-Script/)          | App - Script    |   1    |
+| [App-Script](./App-Script/)          | App - Script    |   2    |
 | [App-System](./App-System/)          | App - System    |   0    |
 | [Programming](./Programming/)        | Programming     |   0    |
 | [OSINT](./OSINT/)                    | OSINT           |   0    |
