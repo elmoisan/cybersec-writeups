@@ -34,11 +34,11 @@ cybersec-writeups/
 | Steganography   |   0    |
 | Network         |   0    |
 | Forensics       |   0    |
-| App - Script    |   2    |
+| App - Script    |   3    |
 | App - System    |   0    |
 | Programming     |   0    |
 | OSINT           |   0    |
-| **Total**       | **2**  |
+| **Total**       | **3**  |
 
 ---
 

@@ -8,6 +8,7 @@ This folder contains writeups for RootMe's **App - Script** category challenges,
 |---|-----------|------------|--------|--------|
 | 01 | [Bash - System 1](./01-bash-system-1/README.md) | Very easy | 5 | ✓ |
 | 02 | [sudo - weak configuration](./02-sudo-weak-configuration/README.md) | Very easy | 5 | ✓ |
+| 03 | [Bash - System 2](./03-bash-system-2/README.md) | Very easy | 5 | ✓ |
 
 ## Key Concepts
 
@@ -18,8 +19,8 @@ This folder contains writeups for RootMe's **App - Script** category challenges,
 
 ## Progress
 
-- Completed: 2/2
-- Total Points: 10
+- Completed: 3/3
+- Total Points: 15
 
 ---
 
