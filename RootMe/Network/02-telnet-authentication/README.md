@@ -6,7 +6,7 @@
 
 Clear-text TELNET credential extraction from PCAP. Password transmitted in plaintext during login sequence.
 
-**Flag:** `user`
+**Flag:** `[REDACTED]`
 
 ---
 
@@ -40,9 +40,9 @@ TELNET operates on **port 23** and transmits all data (including credentials) in
 
 **Observations:**
 - Login prompt: `login:`
-- Username appears doubled: `ffaakkee` (each character echoed by server)
+- Username appears doubled: `[USERNAME]` (each character echoed by server)
 - Password prompt: `Password:`
-- Password visible: `user`
+- Password visible: `[PASSWORD]`
 - Successful authentication: `Last login: Thu Dec 2 21:32:59`
 
 **Why doubled characters?** TELNET echoes each keystroke back to the client for display. The stream shows both the client's input and server's echo.
@@ -51,16 +51,16 @@ TELNET operates on **port 23** and transmits all data (including credentials) in
 ```bash
 $ tshark -r ch2.pcap -Y "telnet" -T fields -e telnet.data | xxd -r -p | strings
 login:
-fake
+[USERNAME]
 Password:
-user
+[PASSWORD]
 ```
 
 Or directly with `strings`:
 ```bash
 $ strings ch2.pcap | grep -A2 "Password"
 Password:
-user
+[PASSWORD]
 Last login
 ```
 

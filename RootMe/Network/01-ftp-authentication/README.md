@@ -6,7 +6,7 @@
 
 Clear-text FTP credentials extraction from PCAP file. Username and password transmitted in plaintext during authentication sequence.
 
-**Flag:** `cdts3500`
+**Flag:** `[REDACTED]`
 
 ---
 
@@ -49,25 +49,25 @@ Authentication happens over the control channel in clear text.
 **Result:**
 ```
 220-QTCP at fran.csg.stercomm.com.
-USER cdts3500
+USER [USERNAME]
 331 Enter password.
-PASS cdts3500
-230 CDTS3500 logged on.
+PASS [PASSWORD]
+230 [USERNAME] logged on.
 ```
 
 ### Method 2: CLI (Automated)
 
 ```bash
 $ strings ch1.pcap | grep -E "^(USER|PASS)"
-USER cdts3500
-PASS cdts3500
+USER [USERNAME]
+PASS [PASSWORD]
 ```
 
 Or with `tshark`:
 ```bash
 $ tshark -r ch1.pcap -Y "ftp.request.command" -T fields -e ftp.request.command -e ftp.request.arg
-USER    cdts3500
-PASS    cdts3500
+USER    [USERNAME]
+PASS    [PASSWORD]
 ```
 
 ---
