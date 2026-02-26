@@ -7,3 +7,4 @@
 | 3 | ETHERNET - Frame | Easy | 10 | [📝](./03-ethernet-frame/) |
 | 4 | NTLM - Authentication | Easy | 10 | [📝](./04-ntlm-authentication/) |
 | 5 | Twitter - Authentication | Very easy | 15 | [📝](./05-twitter-authentication/) |
+| 6 | Bluetooth - Fichier inconnu | Easy | 15 | [📝](./06-bluetooth/) |
