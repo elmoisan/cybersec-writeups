@@ -13,7 +13,7 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | [Web-Server](./Web-Server/)          | Web - Server    |   0    |
 | [Cryptanalysis](./Cryptanalysis/)    | Cryptanalysis   |   0    |
 | [Steganography](./Steganography/)    | Steganography   |   0    |
-| [Network](./Network/)                | Network         |   7    |
+| [Network](./Network/)                | Network         |   8    |
 | [Forensics](./Forensics/)            | Forensics       |   0    |
 | [App-Script](./App-Script/)          | App - Script    |   3    |
 | [App-System](./App-System/)          | App - System    |   0    |

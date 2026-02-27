@@ -9,3 +9,4 @@
 | 5 | Twitter - Authentication | Very easy | 15 | [📝](./05-twitter-authentication/) |
 | 6 | Bluetooth - Fichier inconnu | Easy | 15 | [📝](./06-bluetooth/) |
 | 7 | CISCO - Mot de passe | Easy | 15 | [📝](./07-cisco-mot-de-passe/) |
+| 8 | DNS - Zone Transfer | Easy | 15 | [📝](./08-dns-zone-transfer/) |
