@@ -10,3 +10,4 @@
 | 6 | Bluetooth - Fichier inconnu | Easy | 15 | [📝](./06-bluetooth/) |
 | 7 | CISCO - Mot de passe | Easy | 15 | [📝](./07-cisco-mot-de-passe/) |
 | 8 | DNS - Zone Transfer | Easy | 15 | [📝](./08-dns-zone-transfer/) |
+| 9 | IP - Time To Live | Easy | 15 | [📝](./09-IP-Time-To-Liver/) |

@@ -32,13 +32,13 @@ cybersec-writeups/
 | Web - Server    |   0    |
 | Cryptanalysis   |   0    |
 | Steganography   |   0    |
-| Network         |   8    |
+| Network         |   9    |
 | Forensics       |   0    |
 | App - Script    |   3    |
 | App - System    |   0    |
 | Programming     |   0    |
 | OSINT           |   0    |
-| **Total**       | **11** |
+| **Total**       | **12** |
 
 ---
 
