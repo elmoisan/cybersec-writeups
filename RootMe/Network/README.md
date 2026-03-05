@@ -14,3 +14,4 @@
 | 10 | LDAP - null bind | Easy | 15 | [📝](./10-ldap-null-bind/) |
 | 11 | OSPF - Authentication | Easy | 15 | [📝](./11-ospf-authentication/) |
 | 12 | POP - APOP | Easy | 15 | [📝](./12-pop-apop/) |
+| 13 | RF - AM Transmission | Easy | 15 | [📝](./13-rf-am-transmission/) |
