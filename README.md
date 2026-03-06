@@ -36,9 +36,9 @@ cybersec-writeups/
 | Forensics       |   0    |
 | App - Script    |   3    |
 | App - System    |   0    |
-| Programming     |   0    |
+| Programming     |   1    |
 | OSINT           |   0    |
-| **Total**       | **17** |
+| **Total**       | **18** |
 
 ---
 
