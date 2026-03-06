@@ -15,3 +15,4 @@
 | 11 | OSPF - Authentication | Easy | 15 | [📝](./11-ospf-authentication/) |
 | 12 | POP - APOP | Easy | 15 | [📝](./12-pop-apop/) |
 | 13 | RF - AM Transmission | Easy | 15 | [📝](./13-rf-am-transmission/) |
+| 15 | SMB - FTP - NFS | Medium | 20 | [📝](./15-smb-ftp-nfs/) |
