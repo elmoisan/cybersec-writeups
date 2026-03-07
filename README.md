@@ -29,7 +29,7 @@ cybersec-writeups/
 | Category        | Solved |
 |-----------------|:------:|
 | Web - Client    |   0    |
-| Web - Server    |   1    |
+| Web - Server    |   2    |
 | Cryptanalysis   |   0    |
 | Steganography   |   0    |
 | Network         |   14   |
@@ -38,7 +38,7 @@ cybersec-writeups/
 | App - System    |   0    |
 | Programming     |   1    |
 | OSINT           |   0    |
-| **Total**       | **19** |
+| **Total**       | **20** |
 
 ---
 

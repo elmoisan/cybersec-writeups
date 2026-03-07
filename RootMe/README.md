@@ -10,7 +10,7 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | Folder                               | Category        | Solved |
 |--------------------------------------|-----------------|:------:|
 | [Web-Client](./Web-Client/)          | Web - Client    |   0    |
-| [Web-Serveur](./Web-Serveur/)        | Web - Server    |   1    |
+| [Web-Serveur](./Web-Serveur/)        | Web - Server    |   2    |
 | [Cryptanalysis](./Cryptanalysis/)    | Cryptanalysis   |   0    |
 | [Steganography](./Steganography/)    | Steganography   |   0    |
 | [Network](./Network/)                | Network         |   14   |
