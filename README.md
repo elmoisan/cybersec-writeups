@@ -1,7 +1,7 @@
 # Cybersec Writeups — @elmoisan
 
 Welcome to my cybersecurity documentation space.  
-This repo gathers my writeups and notes for **Root-Me** challenges, **PortSwigger** labs and **CTF** competitions, as part of my journey toward a master's degree in cybersecurity.
+This repo gathers my writeups and notes for **Root-Me** challenges, **PortSwigger** labs, **OSINT** investigations and **CTF** competitions, as part of my journey toward a master's degree in cybersecurity.
 
 ---
 
@@ -21,6 +21,7 @@ This repo gathers my writeups and notes for **Root-Me** challenges, **PortSwigge
 cybersec-writeups/
 ├── RootMe/          → Root-Me challenges by category
 ├── PortSwigger/     → PortSwigger Web Security Academy labs
+├── OSINT/           → OSINT challenges and investigations
 └── CTF/             → CTF competitions
 ```
 
