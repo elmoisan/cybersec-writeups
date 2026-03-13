@@ -64,7 +64,7 @@ cybersec-writeups/
 
 | Event              | Year | Solved |
 |--------------------|------|:------:|
-| *(coming soon)*    | —    |   —    |
+| [Bellatrix — COMCYBER](./CTF/Bellatrix-2026/) | 2026 | TBD |
 
 ---
 

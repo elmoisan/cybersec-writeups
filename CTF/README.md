@@ -9,7 +9,7 @@ Each event has its own folder with one writeup per solved challenge.
 
 | Event             | Date | Rank | Solved |
 |-------------------|------|------|:------:|
-| *(coming soon)*   | —    | —    |   —    |
+| [Bellatrix — COMCYBER](./Bellatrix-2026/) | 24-26/03/2026 | TBD | TBD |
 
 ---
 
