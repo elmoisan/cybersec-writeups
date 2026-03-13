@@ -6,7 +6,7 @@ Writeups for the [Bellingcat Investigation Challenges](https://challenge.belling
 
 ## Progress Counter
 
-Total: **15 categories × 5 challenges = 75 challenges**
+Total: **15 categories × 5 challenges = 75 challenges** — Completed: **2 / 75**
 
 | Category | Completed | Total |
 |----------|:---------:|:-----:|
@@ -25,7 +25,7 @@ Total: **15 categories × 5 challenges = 75 challenges**
 | Urban Exploration | 0 | 5 |
 | Maritime Mysteries | 0 | 5 |
 | Bellingcat Globetrotters | 0 | 5 |
-| **Total** | **0** | **75** |
+| **Total** | **2** | **75** |
 
 ---
 
