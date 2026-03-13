@@ -1,7 +1,7 @@
 # Cybersec Writeups — @elmoisan
 
 Welcome to my cybersecurity documentation space.  
-This repo gathers my writeups and notes for **Root-Me** challenges and **CTF** competitions, as part of my journey toward a master's degree in cybersecurity.
+This repo gathers my writeups and notes for **Root-Me** challenges, **PortSwigger** labs and **CTF** competitions, as part of my journey toward a master's degree in cybersecurity.
 
 ---
 
@@ -9,8 +9,9 @@ This repo gathers my writeups and notes for **Root-Me** challenges and **CTF** c
 
 | Platform | Link                                               |
 |----------|----------------------------------------------------|
-| GitHub   | [@elmoisan](https://github.com/elmoisan)          |
-| Root-Me  | [elodieee](https://www.root-me.org/elodieee)      |
+| GitHub      | [@elmoisan](https://github.com/elmoisan)                                              |
+| Root-Me     | [elodieee](https://www.root-me.org/elodieee)                                         |
+| PortSwigger | [Elodie](https://portswigger.net/web-security/dashboard)                             |
 
 ---
 
@@ -19,6 +20,7 @@ This repo gathers my writeups and notes for **Root-Me** challenges and **CTF** c
 ```
 cybersec-writeups/
 ├── RootMe/          → Root-Me challenges by category
+├── PortSwigger/     → PortSwigger Web Security Academy labs
 └── CTF/             → CTF competitions
 ```
 
@@ -39,6 +41,22 @@ cybersec-writeups/
 | Programming     |   1    |
 | OSINT           |   0    |
 | **Total**       | **21** |
+
+---
+
+## PortSwigger — Progress
+
+| Category | Completed |
+|----------|-----------|
+| SQL Injection | 0 / 16 |
+| Cross-Site Scripting (XSS) | 0 / 30 |
+| Cross-Site Request Forgery (CSRF) | 0 / 8 |
+| XXE Injection | 0 / 9 |
+| NoSQL Injection | 0 / 4 |
+| API Testing | 0 / 5 |
+| Web LLM Attacks | 0 / 4 |
+| Web Cache Deception | 0 / 5 |
+| **Total** | **0 / 81** |
 
 ---
 
