@@ -40,8 +40,8 @@ cybersec-writeups/
 | App - Script    |   3    |
 | App - System    |   0    |
 | Programming     |   1    |
-| OSINT           |   0    |
-| **Total**       | **21** |
+| Cracking        |   1    |
+| **Total**       | **22** |
 
 ---
 

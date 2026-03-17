@@ -18,4 +18,5 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | [App-Script](./App-Script/)          | App - Script    |   3    |
 | [App-System](./App-System/)          | App - System    |   0    |
 | [Programming](./Programming/)        | Programming     |   1    |
-| [OSINT](./OSINT/)                    | OSINT           |   0    |
+| [Cracking](./Cracking/)              | Cracking        |   1    |
+| **Total**                            |                 | **22** |
