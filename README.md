@@ -39,9 +39,12 @@ cybersec-writeups/
 | Forensics       |   0    |
 | App - Script    |   3    |
 | App - System    |   0    |
+| CTF-ATD         |   1    |
 | Programming     |   1    |
 | Cracking        |   2    |
-| **Total**       | **23** |
+| **Total**       | **24** |
+
+**Score:** 245 pts | **Rank:** 66 407 / 323 042
 
 ---
 
@@ -66,6 +69,7 @@ cybersec-writeups/
 | Event              | Year | Solved |
 |--------------------|------|:------:|
 | [Bellatrix — COMCYBER](./CTF/Bellatrix-2026/) | 2026 | TBD |
+| [CTF-ATD — End Droid](./RootMe/CTF-ATD/end-droid/README.md) | 2026 | 1 |
 
 ---
 
