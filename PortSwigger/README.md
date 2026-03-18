@@ -5,6 +5,15 @@ Each folder contains one subfolder per lab with a detailed writeup.
 
 ---
 
+## Progress
+
+| Status | Value |
+|--------|:-----:|
+| Total labs completed | 0 / 81 |
+| Completion rate | 0% |
+
+---
+
 ## Categories
 
 | Folder | Category | Completed |

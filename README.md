@@ -10,6 +10,7 @@ This repo gathers my writeups and notes for **Root-Me** challenges, **PortSwigge
 | Platform | Link                                               |
 |----------|----------------------------------------------------|
 | GitHub      | [@elmoisan](https://github.com/elmoisan)                                              |
+| LinkedIn    | [Elodie Moisan](https://www.linkedin.com/in/elodie-moisan-233115276/)                 |
 | Root-Me     | [elodieee](https://www.root-me.org/elodieee)                                         |
 | PortSwigger | [Elodie](https://portswigger.net/web-security/dashboard)                             |
 
@@ -31,17 +32,17 @@ cybersec-writeups/
 
 | Category        | Solved |
 |-----------------|:------:|
-| Web - Client    |   0    |
-| Web - Server    |   3    |
-| Cryptanalysis   |   0    |
-| Steganography   |   0    |
-| Network         |   14   |
-| Forensics       |   0    |
-| App - Script    |   3    |
-| App - System    |   0    |
-| CTF-ATD         |   1    |
-| Programming     |   1    |
-| Cracking        |   2    |
+| [Web - Client](./RootMe/Web-Client/)    |   0    |
+| [Web - Server](./RootMe/Web-Serveur/)    |   3    |
+| [Cryptanalysis](./RootMe/Cryptanalysis/)   |   0    |
+| [Steganography](./RootMe/Steganography/)   |   0    |
+| [Network](./RootMe/Network/)         |   14   |
+| [Forensics](./RootMe/Forensics/)       |   0    |
+| [App - Script](./RootMe/App-Script/)    |   3    |
+| [App - System](./RootMe/App-System/)    |   0    |
+| [CTF-ATD](./RootMe/CTF-ATD/)         |   1    |
+| [Programming](./RootMe/Programming/)     |   1    |
+| [Cracking](./RootMe/Cracking/)        |   2    |
 | **Total**       | **24** |
 
 **Score:** 245 pts | **Rank:** 66 407 / 323 042
@@ -52,15 +53,23 @@ cybersec-writeups/
 
 | Category | Completed |
 |----------|-----------|
-| SQL Injection | 0 / 16 |
-| Cross-Site Scripting (XSS) | 0 / 30 |
-| Cross-Site Request Forgery (CSRF) | 0 / 8 |
-| XXE Injection | 0 / 9 |
-| NoSQL Injection | 0 / 4 |
-| API Testing | 0 / 5 |
-| Web LLM Attacks | 0 / 4 |
-| Web Cache Deception | 0 / 5 |
+| [SQL Injection](./PortSwigger/SQL-Injection/) | 0 / 16 |
+| [Cross-Site Scripting (XSS)](./PortSwigger/XSS/) | 0 / 30 |
+| [Cross-Site Request Forgery (CSRF)](./PortSwigger/CSRF/) | 0 / 8 |
+| [XXE Injection](./PortSwigger/XXE-Injection/) | 0 / 9 |
+| [NoSQL Injection](./PortSwigger/NoSQL-Injection/) | 0 / 4 |
+| [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
+| [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 0 / 4 |
+| [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
 | **Total** | **0 / 81** |
+
+---
+
+## OSINT — Progress
+
+| Platform | Completed |
+|----------|:---------:|
+| [Bellingcat](./OSINT/Bellingcat/) | 0 |
 
 ---
 
@@ -75,9 +84,16 @@ cybersec-writeups/
 
 ## Goals
 
-- [ ] Solve 50 Root-Me challenges
-- [ ] Document all 2026 CTF participations
-- [ ] Cover all Root-Me categories
+- [ ] Reach 50 Root-Me challenges (currently 24/50)
+- [ ] Complete SQL Injection + XSS labs on PortSwigger (46/81)
+- [ ] Participate in 3 CTF competitions in 2026
+- [ ] Complete 10 Bellingcat OSINT challenges
+
+---
+
+## Last Updated
+
+📅 **March 19, 2026** — Restructured repo with unified progress tracking
 
 ---
 
