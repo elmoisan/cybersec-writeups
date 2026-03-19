@@ -53,7 +53,7 @@ cybersec-writeups/
 
 | Category | Completed |
 |----------|-----------|
-| [SQL Injection](./PortSwigger/SQL-Injection/) | 1 / 16 |
+| [SQL Injection](./PortSwigger/SQL-Injection/) | 2 / 16 |
 | [Cross-Site Scripting (XSS)](./PortSwigger/XSS/) | 0 / 30 |
 | [Cross-Site Request Forgery (CSRF)](./PortSwigger/CSRF/) | 0 / 8 |
 | [XXE Injection](./PortSwigger/XXE-Injection/) | 0 / 9 |
@@ -61,7 +61,7 @@ cybersec-writeups/
 | [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
 | [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 0 / 4 |
 | [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
-| **Total** | **1 / 81** |
+| **Total** | **2 / 81** |
 
 ---
 

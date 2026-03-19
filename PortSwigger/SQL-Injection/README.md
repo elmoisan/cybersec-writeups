@@ -6,7 +6,7 @@ PortSwigger Web Security Academy — SQL Injection labs.
 
 | Solved | Total |
 |:------:|:-----:|
-|   1    |  16   |
+|   2    |  16   |
 
 ---
 
@@ -15,3 +15,4 @@ PortSwigger Web Security Academy — SQL Injection labs.
 | # | Lab | Difficulty | Writeup |
 |---|-----|------------|---------|
 | 01 | SQL Injection in WHERE Clause (Hidden Data Retrieval) | Apprentice | [README](./01%20-%20SQL%20Injection%20in%20WHERE%20Clause%20(Hidden%20Data%20Retrieval)/README.md) |
+| 02 | SQL Injection Vulnerability Allowing Login Bypass | Apprentice | [README](./02%20-%20SQL%20Injection%20Vulnerability%20Allowing%20Login%20Bypass/README.md) |
