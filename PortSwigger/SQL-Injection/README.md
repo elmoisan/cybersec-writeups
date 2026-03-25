@@ -6,7 +6,7 @@ PortSwigger Web Security Academy — SQL Injection labs.
 
 | Solved | Total |
 |:------:|:-----:|
-|   7    |  16   |
+|   8    |  16   |
 
 ---
 
@@ -21,3 +21,4 @@ PortSwigger Web Security Academy — SQL Injection labs.
 | 05 | SQL Injection Attack, Querying the Database Type and Version on MySQL and Microsoft | Practitioner | [README](./05%20-%20SQL%20Injection%20Attack%2C%20Querying%20the%20Database%20Type%20and%20Version%20on%20MySQL%20and%20Microsoft/README.md) |
 | 06 | SQL Injection Attack, Listing the Database Contents on Non-Oracle Databases | Practitioner | [README](./06%20-%20SQL%20Injection%20Attack%2C%20Listing%20the%20Database%20Contents%20on%20Non-Oracle%20Databases/README.md) |
 | 07 | SQL Injection Attack, Listing the Database Contents on Oracle | Practitioner | [README](./07%20-%20SQL%20Injection%20Attack%2C%20Listing%20the%20Database%20Contents%20on%20Oracle/README.md) |
+| 08 | SQL Injection UNION Attack, Determining the Number of Columns Returned by the Query | Practitioner | [README](./08%20-%20SQL%20Injection%20UNION%20Attack%2C%20Determining%20the%20Number%20of%20Columns%20Returned%20by%20the%20Query/README.md) |
