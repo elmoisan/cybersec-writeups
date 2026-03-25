@@ -75,9 +75,11 @@ cybersec-writeups/
 
 ## CTF — Participations
 
-| Event              | Year | Solved |
+| Event              | Date | Solved |
 |--------------------|------|:------:|
-| [Bellatrix — COMCYBER](./CTF/Bellatrix-2026/) | 2026 | TBD |
+| [Bellatrix — COMCYBER](./CTF/Bellatrix-2026/) | 24-26/03/2026 | TBD |
+| [CyberNSPICE](./CTF/CyberNSPICE-2026/) | 11/04/2026 | TBD |
+| [BreizhCTF](./CTF/BreizhCTF-2026/) | 23/05/2026 | TBD |
 | [CTF-ATD — End Droid](./RootMe/CTF-ATD/end-droid/README.md) | 2026 | 1 |
 
 ---
