@@ -12,6 +12,7 @@ This repo gathers my writeups and notes for **Root-Me** challenges, **PortSwigge
 | GitHub      | [@elmoisan](https://github.com/elmoisan)                                              |
 | LinkedIn    | [Elodie Moisan](https://www.linkedin.com/in/elodie-moisan-233115276/)                 |
 | Root-Me     | [elodieee](https://www.root-me.org/elodieee)                                         |
+| HackTheBox  | [@Elodieee](https://www.hackthebox.com/home/users/profile/Elodieee)                 |
 | PortSwigger | [Elodie](https://portswigger.net/web-security/dashboard)                             |
 
 ---

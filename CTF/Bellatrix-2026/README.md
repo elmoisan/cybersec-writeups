@@ -27,9 +27,14 @@
 
 ## Results
 
-| Rank | Challenges solved |
-|:----:|:-----------------:|
-| TBD  | TBD               |
+| Metric | Value |
+|--------|-------|
+| **Username** | cyber-sentinelle-01488 |
+| **Rank** | 298th / 2,000 |
+| **Total Points** | 1,725 |
+| **Phase 1 — Analysis** | 50.00% |
+| **Phase 2 — Technical** | 36.36% |
+| **Phase 3 — OSINT** | 13.64% |
 
 ---
 
