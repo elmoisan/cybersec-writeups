@@ -9,8 +9,8 @@ Each folder contains one subfolder per lab with a detailed writeup.
 
 | Status | Value |
 |--------|:-----:|
-| Total labs completed | 10 / 81 |
-| Completion rate | 12.35% |
+| Total labs completed | 12 / 81 |
+| Completion rate | 14.81% |
 
 ---
 
@@ -18,7 +18,7 @@ Each folder contains one subfolder per lab with a detailed writeup.
 
 | Folder | Category | Completed |
 |--------|----------|:---------:|
-| [SQL-Injection](./SQL-Injection/) | SQL Injection | 10 / 16 |
+| [SQL-Injection](./SQL-Injection/) | SQL Injection | 12 / 16 |
 | [XSS](./XSS/) | Cross-Site Scripting (XSS) | 0 / 30 |
 | [CSRF](./CSRF/) | Cross-Site Request Forgery (CSRF) | 0 / 8 |
 | [XXE-Injection](./XXE-Injection/) | XXE Injection | 0 / 9 |

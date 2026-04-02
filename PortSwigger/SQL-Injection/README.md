@@ -6,7 +6,7 @@ PortSwigger Web Security Academy — SQL Injection labs.
 
 | Solved | Total |
 |:------:|:-----:|
-|   10   |  16   |
+|   12   |  16   |
 
 ---
 
@@ -24,3 +24,5 @@ PortSwigger Web Security Academy — SQL Injection labs.
 | 08 | SQL Injection UNION Attack, Determining the Number of Columns Returned by the Query | Practitioner | [README](./08%20-%20SQL%20Injection%20UNION%20Attack%2C%20Determining%20the%20Number%20of%20Columns%20Returned%20by%20the%20Query/README.md) |
 | 09 | SQL Injection UNION Attack, Finding a Column Containing Text | Practitioner | [README](./09%20-%20SQL%20Injection%20UNION%20Attack%2C%20Finding%20a%20Column%20Containing%20Text/README.md) |
 | 10 | SQL Injection UNION Attack, Retrieving Data from Other Tables | Practitioner | [README](./10%20-%20SQL%20Injection%20UNION%20Attack%2C%20Retrieving%20Data%20from%20Other%20Tables/README.md) |
+| 11 | SQL Injection UNION attack, retrieving multiple values in a single column | Practitioner | [README](./11%20-%20SQL%20Injection%20UNION%20attack%2C%20retrieving%20multiple%20values%20in%20a%20single%20column/README.md) |
+| 12 | Blind SQL Injection with Conditional Errors | Practitioner | [README](./12%20-%20Blind%20SQL%20Injection%20with%20Conditional%20Errors/README.md) |
