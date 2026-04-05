@@ -55,14 +55,14 @@ cybersec-writeups/
 | Category | Completed |
 |----------|-----------|
 | [SQL Injection](./PortSwigger/SQL-Injection/) | 12 / 16 |
-| [Cross-Site Scripting (XSS)](./PortSwigger/XSS/) | 2 / 30 |
+| [Cross-Site Scripting (XSS)](./PortSwigger/XSS/) | 3 / 30 |
 | [Cross-Site Request Forgery (CSRF)](./PortSwigger/CSRF/) | 0 / 8 |
 | [XXE Injection](./PortSwigger/XXE-Injection/) | 0 / 9 |
 | [NoSQL Injection](./PortSwigger/NoSQL-Injection/) | 0 / 4 |
 | [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
 | [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 0 / 4 |
 | [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
-| **Total** | **14 / 81** |
+| **Total** | **15 / 81** |
 
 ---
 
@@ -88,7 +88,7 @@ cybersec-writeups/
 ## Goals
 
 - [ ] Reach 50 Root-Me challenges (currently 24/50)
-- [ ] Complete SQL Injection + XSS labs on PortSwigger (14/81)
+- [ ] Complete SQL Injection + XSS labs on PortSwigger (15/81)
 - [ ] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
 
