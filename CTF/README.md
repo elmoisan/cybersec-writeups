@@ -12,6 +12,7 @@ Each event has its own folder with one writeup per solved challenge.
 | Event             | Date | Rank | Solved |
 |-------------------|------|------|:------:|
 | [Bellatrix — COMCYBER](./Bellatrix-2026/) | 24-26/03/2026 | TBD | TBD |
+| [France Cybersecurity Challenge](./FCSC-2026/) | 03-12/04/2026 | TBD | TBD |
 | [CyberNSPICE](./CyberNSPICE-2026/) | 11/04/2026 | TBD | TBD |
 | [BreizhCTF](./BreizhCTF-2026/) | 23/05/2026 | TBD | TBD |
 
@@ -25,7 +26,7 @@ Each event has its own folder with one writeup per solved challenge.
 
 | Total CTP | Value |
 |:---------:|:-----:|
-| **Total participations** | **4** |
+| **Total participations** | **5** |
 
 ---
 
