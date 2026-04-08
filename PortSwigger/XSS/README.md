@@ -6,7 +6,7 @@ PortSwigger Web Security Academy — Cross-Site Scripting labs.
 
 | Solved | Total |
 |:------:|:-----:|
-|   4    |  30   |
+|   5    |  30   |
 
 ---
 
@@ -18,3 +18,4 @@ PortSwigger Web Security Academy — Cross-Site Scripting labs.
 | 02 | Stored XSS into HTML Context with Nothing Encoded | Apprentice | [README](./02%20-%20Stored%20XSS%20into%20HTML%20Context%20with%20Nothing%20Encoded/README.md) |
 | 03 | DOM XSS in document.write Sink Using Source location.search | Apprentice | [README](./03%20-%20DOM%20XSS%20in%20document.write%20Sink%20Using%20Source%20location.search/README.md) |
 | 04 | DOM XSS in innerHTML Sink Using Source location.search | Apprentice | [README](./04%20-%20DOM%20XSS%20in%20innerHTML%20Sink%20Using%20Source%20location.search/README.md) |
+| 05 | DOM XSS in jQuery Selector Sink Using a Hashchange Event | Apprentice | [README](./05%20-%20DOM%20XSS%20in%20jQuery%20Selector%20Sink%20Using%20a%20Hashchange%20Event/README.md) |
