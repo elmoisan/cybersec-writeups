@@ -6,7 +6,7 @@ PortSwigger Web Security Academy — Cross-Site Scripting labs.
 
 | Solved | Total |
 |:------:|:-----:|
-|   6    |  30   |
+|   7    |  30   |
 
 ---
 
@@ -20,3 +20,4 @@ PortSwigger Web Security Academy — Cross-Site Scripting labs.
 | 04 | DOM XSS in innerHTML Sink Using Source location.search | Apprentice | [README](./04%20-%20DOM%20XSS%20in%20innerHTML%20Sink%20Using%20Source%20location.search/README.md) |
 | 05 | DOM XSS in jQuery Selector Sink Using a Hashchange Event | Apprentice | [README](./05%20-%20DOM%20XSS%20in%20jQuery%20Selector%20Sink%20Using%20a%20Hashchange%20Event/README.md) |
 | 06 | Reflected XSS into Attribute with Angle Brackets HTML-Encoded | Apprentice | [README](./06%20-%20Reflected%20XSS%20into%20Attribute%20with%20Angle%20Brackets%20HTML-Encoded/README.md) |
+| 07 | Stored XSS into Anchor href Attribute with Double Quotes HTML-Encoded | Apprentice | [README](./07%20-%20Stored%20XSS%20into%20Anchor%20href%20Attribute%20with%20Double%20Quotes%20HTML-Encoded/README.md) |
