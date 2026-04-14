@@ -44,6 +44,7 @@ cybersec-writeups/
 | [CTF-ATD](./RootMe/CTF-ATD/)         |   1    |
 | [Programming](./RootMe/Programming/)     |   1    |
 | [Cracking](./RootMe/Cracking/)        |   2    |
+| [Realistic](./RootMe/Realistic/)     |   0    |
 | **Total**       | **24** |
 
 **Score:** 245 pts | **Rank:** 66 407 / 323 042
@@ -55,14 +56,14 @@ cybersec-writeups/
 | Category | Completed |
 |----------|-----------|
 | [SQL Injection](./PortSwigger/SQL-Injection/) | 12 / 16 |
-| [Cross-Site Scripting (XSS)](./PortSwigger/XSS/) | 5 / 30 |
+| [Cross-Site Scripting (XSS)](./PortSwigger/XSS/) | 10 / 30 |
 | [Cross-Site Request Forgery (CSRF)](./PortSwigger/CSRF/) | 0 / 8 |
 | [XXE Injection](./PortSwigger/XXE-Injection/) | 0 / 9 |
 | [NoSQL Injection](./PortSwigger/NoSQL-Injection/) | 0 / 4 |
 | [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
 | [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 0 / 4 |
 | [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
-| **Total** | **17 / 81** |
+| **Total** | **22 / 81** |
 
 ---
 
