@@ -6,7 +6,7 @@ PortSwigger Web Security Academy — Cross-Site Scripting labs.
 
 | Solved | Total |
 |:------:|:-----:|
-|   8    |  30   |
+|   9    |  30   |
 
 ---
 
@@ -22,3 +22,4 @@ PortSwigger Web Security Academy — Cross-Site Scripting labs.
 | 06 | Reflected XSS into Attribute with Angle Brackets HTML-Encoded | Apprentice | [README](./06%20-%20Reflected%20XSS%20into%20Attribute%20with%20Angle%20Brackets%20HTML-Encoded/README.md) |
 | 07 | Stored XSS into Anchor href Attribute with Double Quotes HTML-Encoded | Apprentice | [README](./07%20-%20Stored%20XSS%20into%20Anchor%20href%20Attribute%20with%20Double%20Quotes%20HTML-Encoded/README.md) |
 | 08 | Reflected XSS into a JavaScript String with Angle Brackets HTML-Encoded | Apprentice | [README](./08%20-%20Reflected%20XSS%20into%20a%20JavaScript%20String%20with%20Angle%20Brackets%20HTML-Encoded/README.md) |
+| 09 | DOM XSS in document.write Sink Using Source location.search Inside a Select Element | Apprentice | [README](./09%20-%20DOM%20XSS%20in%20document.write%20Sink%20Using%20Source%20location.search%20Inside%20a%20Select%20Element/README.md) |
