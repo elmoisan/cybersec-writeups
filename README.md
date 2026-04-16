@@ -61,9 +61,9 @@ cybersec-writeups/
 | [XXE Injection](./PortSwigger/XXE-Injection/) | 0 / 9 |
 | [NoSQL Injection](./PortSwigger/NoSQL-Injection/) | 0 / 4 |
 | [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
-| [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 0 / 4 |
+| [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 1 / 4 |
 | [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
-| **Total** | **22 / 81** |
+| **Total** | **23 / 81** |
 
 ---
 
@@ -89,7 +89,7 @@ cybersec-writeups/
 ## Goals
 
 - [ ] Reach 50 Root-Me challenges (currently 24/50)
-- [ ] Complete SQL Injection + XSS labs on PortSwigger (16/81)
+- [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
 - [ ] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
 
@@ -97,7 +97,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **March 19, 2026** — Restructured repo with unified progress tracking
+📅 **April 16, 2026** — Updated PortSwigger progress counters after solving a new lab
 
 ---
 
