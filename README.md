@@ -100,12 +100,13 @@ cybersec-writeups/
 
 ## CTF — Participations
 
-| Event              | Date | Solved |
-|--------------------|------|:------:|
-| [Bellatrix — COMCYBER](./CTF/Bellatrix-2026/) | 24-26/03/2026 | TBD |
-| [CyberNSPICE](./CTF/CyberNSPICE-2026/) | 11/04/2026 | TBD |
+| Event              | Date | Rank |
+|--------------------|------|------|
+| [Bellatrix — COMCYBER](./CTF/Bellatrix-2026/) | 24-26/03/2026 | 298 / 2,000 |
+| [France Cybersecurity Challenge](./CTF/FCSC-2026/) | 03-12/04/2026 | N/A |
+| [CyberNSPICE](./CTF/CyberNSPICE-2026/) | 11/04/2026 | 14 / 100 |
 | [BreizhCTF](./CTF/BreizhCTF-2026/) | 23/05/2026 | TBD |
-| [CTF-ATD — End Droid](./RootMe/CTF-ATD/end-droid/README.md) | 2026 | 1 |
+| [CTF-ATD — End Droid](./RootMe/CTF-ATD/end-droid/README.md) | 2026 | N/A |
 
 ---
 
@@ -113,14 +114,14 @@ cybersec-writeups/
 
 - [ ] Reach 50 Root-Me challenges (currently 24/50)
 - [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
-- [ ] Participate in 3 CTF competitions in 2026
+- [x] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
 
 ---
 
 ## Last Updated
 
-📅 **April 16, 2026** — Updated PortSwigger categories and progress counters after adding missing lab folders
+📅 **April 16, 2026** — Updated PortSwigger categories and CTF rankings in the main tracker
 
 ---
 
