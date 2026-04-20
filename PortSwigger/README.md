@@ -9,8 +9,8 @@ Each folder contains one subfolder per lab with a detailed writeup.
 
 | Status | Value |
 |--------|:-----:|
-| Total labs completed | 23 / 262 |
-| Completion rate | 8.78% |
+| Total labs completed | 24 / 262 |
+| Completion rate | 9.16% |
 
 ---
 
@@ -27,7 +27,7 @@ Each folder contains one subfolder per lab with a detailed writeup.
 | [XXE-Injection](./XXE-Injection/) | XXE Injection | 0 / 9 |
 | [SSRF](./SSRF/) | Server-side request forgery (SSRF) | 0 / 6 |
 | [HTTP-Request-Smuggling](./HTTP-Request-Smuggling/) | HTTP request smuggling | 0 / 20 |
-| [OS-Command-Injection](./OS-Command-Injection/) | OS command injection | 0 / 5 |
+| [OS-Command-Injection](./OS-Command-Injection/) | OS command injection | 1 / 5 |
 | [Server-Side-Template-Injection](./Server-Side-Template-Injection/) | Server-side template injection | 0 / 7 |
 | [Path-Traversal](./Path-Traversal/) | Path traversal | 0 / 6 |
 | [Access-Control-Vulnerabilities](./Access-Control-Vulnerabilities/) | Access control vulnerabilities | 0 / 13 |

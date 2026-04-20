@@ -6,7 +6,7 @@ PortSwigger Web Security Academy — OS command injection labs.
 
 | Solved | Total |
 |:------:|:-----:|
-|   0    |   5   |
+|   1    |   5   |
 
 ---
 
@@ -14,3 +14,4 @@ PortSwigger Web Security Academy — OS command injection labs.
 
 | # | Lab | Difficulty | Writeup |
 |---|-----|------------|---------|
+| 01 | OS Command Injection, Simple Case | Apprentice | [README](./01%20-%20OS%20Command%20Injection,%20Simple%20Case/README.md) |

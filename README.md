@@ -64,7 +64,7 @@ cybersec-writeups/
 | [XXE Injection](./PortSwigger/XXE-Injection/) | 0 / 9 |
 | [Server-side request forgery (SSRF)](./PortSwigger/SSRF/) | 0 / 6 |
 | [HTTP request smuggling](./PortSwigger/HTTP-Request-Smuggling/) | 0 / 20 |
-| [OS command injection](./PortSwigger/OS-Command-Injection/) | 0 / 5 |
+| [OS command injection](./PortSwigger/OS-Command-Injection/) | 1 / 5 |
 | [Server-side template injection](./PortSwigger/Server-Side-Template-Injection/) | 0 / 7 |
 | [Path traversal](./PortSwigger/Path-Traversal/) | 0 / 6 |
 | [Access control vulnerabilities](./PortSwigger/Access-Control-Vulnerabilities/) | 0 / 13 |
@@ -86,7 +86,7 @@ cybersec-writeups/
 | [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
 | [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 1 / 4 |
 | [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
-| **Total** | **23 / 262** |
+| **Total** | **24 / 262** |
 
 ---
 
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **April 16, 2026** — Updated PortSwigger categories and CTF rankings in the main tracker
+📅 **April 20, 2026** — Updated PortSwigger counters after OS command injection writeup
 
 ---
 
