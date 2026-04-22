@@ -9,8 +9,8 @@ Each folder contains one subfolder per lab with a detailed writeup.
 
 | Status | Value |
 |--------|:-----:|
-| Total labs completed | 25 / 262 |
-| Completion rate | 9.54% |
+| Total labs completed | 26 / 262 |
+| Completion rate | 9.92% |
 
 ---
 
@@ -47,5 +47,5 @@ Each folder contains one subfolder per lab with a detailed writeup.
 | [Race-Conditions](./Race-Conditions/) | Race conditions | 0 / 6 |
 | [NoSQL-Injection](./NoSQL-Injection/) | NoSQL Injection | 0 / 4 |
 | [API-Testing](./API-Testing/) | API Testing | 0 / 5 |
-| [Web-LLM-Attacks](./Web-LLM-Attacks/) | Web LLM Attacks | 2 / 4 |
+| [Web-LLM-Attacks](./Web-LLM-Attacks/) | Web LLM Attacks | 3 / 4 |
 | [Web-Cache-Deception](./Web-Cache-Deception/) | Web Cache Deception | 0 / 5 |
