@@ -84,9 +84,9 @@ cybersec-writeups/
 | [Race conditions](./PortSwigger/Race-Conditions/) | 0 / 6 |
 | [NoSQL Injection](./PortSwigger/NoSQL-Injection/) | 0 / 4 |
 | [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
-| [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 3 / 4 |
+| [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 3 / 7 |
 | [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
-| **Total** | **26 / 262** |
+| **Total** | **26 / 265** |
 
 ---
 
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **April 22, 2026** — Updated PortSwigger counters after Indirect Prompt Injection writeup
+📅 **April 22, 2026** — Updated PortSwigger Web LLM totals and lab difficulties
 
 ---
 
