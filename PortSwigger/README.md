@@ -9,8 +9,8 @@ Each folder contains one subfolder per lab with a detailed writeup.
 
 | Status | Value |
 |--------|:-----:|
-| Total labs completed | 27 / 265 |
-| Completion rate | 10.19% |
+| Total labs completed | 28 / 265 |
+| Completion rate | 10.57% |
 
 ---
 
@@ -20,7 +20,7 @@ Each folder contains one subfolder per lab with a detailed writeup.
 |--------|----------|:---------:|
 | [SQL-Injection](./SQL-Injection/) | SQL Injection | 12 / 16 |
 | [XSS](./XSS/) | Cross-Site Scripting (XSS) | 10 / 30 |
-| [CSRF](./CSRF/) | Cross-Site Request Forgery (CSRF) | 0 / 8 |
+| [CSRF](./CSRF/) | Cross-Site Request Forgery (CSRF) | 1 / 8 |
 | [Clickjacking](./Clickjacking/) | Clickjacking | 0 / 5 |
 | [DOM-Based-Vulnerabilities](./DOM-Based-Vulnerabilities/) | DOM-based vulnerabilities | 0 / 7 |
 | [CORS](./CORS/) | Cross-origin resource sharing (CORS) | 0 / 3 |
