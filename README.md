@@ -35,7 +35,7 @@ cybersec-writeups/
 |-----------------|:------:|
 | [Web - Client](./RootMe/Web-Client/)    |   0    |
 | [Web - Server](./RootMe/Web-Serveur/)    |   3    |
-| [Cryptanalysis](./RootMe/Cryptanalysis/)   |   1    |
+| [Cryptanalysis](./RootMe/Cryptanalysis/)   |   2    |
 | [Steganography](./RootMe/Steganography/)   |   0    |
 | [Network](./RootMe/Network/)         |   14   |
 | [Forensics](./RootMe/Forensics/)       |   0    |
@@ -45,9 +45,9 @@ cybersec-writeups/
 | [Programming](./RootMe/Programming/)     |   1    |
 | [Cracking](./RootMe/Cracking/)        |   2    |
 | [Realistic](./RootMe/Realistic/)     |   1    |
-| **Total**       | **26** |
+| **Total**       | **27** |
 
-**Score:** 260 pts | **Rank:** 63 829 / 323 042
+**Score:** 265 pts | **Rank:** 62 812 / 323 042
 
 ---
 
@@ -112,7 +112,7 @@ cybersec-writeups/
 
 ## Goals
 
-- [ ] Reach 50 Root-Me challenges (currently 26/50)
+- [ ] Reach 50 Root-Me challenges (currently 27/50)
 - [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
 - [x] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **April 30, 2026** — Updated Root-Me and PortSwigger counters after adding new writeups
+📅 **April 30, 2026** — Updated Root-Me counters after new Cryptanalysis solve
 
 ---
 

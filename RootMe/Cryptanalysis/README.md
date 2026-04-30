@@ -6,7 +6,7 @@ Root-Me — Cryptanalysis challenges.
 
 | Solved | Total |
 |:------:|:-----:|
-|   1    |   1   |
+|   2    |   2   |
 
 ---
 
@@ -15,3 +15,4 @@ Root-Me — Cryptanalysis challenges.
 | # | Challenge | Writeup |
 |---|-----------|---------|
 | 01 | Encodage - ASCII | [README](./01-Encodage%20-%20ASCII/README.md) |
+| 02 | Encodage - UU | [README](./02-Encodage%20-%20UU/README.md) |
