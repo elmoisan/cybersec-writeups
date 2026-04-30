@@ -6,7 +6,7 @@
 
 A realistic web challenge simulating a compromised company website. The admin section is accessible via a simple URL, but only responds to the **HTTP `OPTIONS`** method — revealing the password directly in the response body.
 
-**Flag:** `0010110111101001`
+**Flag:** `[REDACTED]`
 
 ---
 
@@ -92,10 +92,10 @@ Content-Type: text/html; charset=UTF-8
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-    <title>Admin section</title>
+	<title>Admin section</title>
 </head>
 <body>
-    <h1>Mot de passe / password : 0010110111101001</h1>
+	<h1>Mot de passe / password : 0010110111101001</h1>
 </body>
 ```
 
