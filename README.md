@@ -35,7 +35,7 @@ cybersec-writeups/
 |-----------------|:------:|
 | [Web - Client](./RootMe/Web-Client/)    |   0    |
 | [Web - Server](./RootMe/Web-Serveur/)    |   3    |
-| [Cryptanalysis](./RootMe/Cryptanalysis/)   |   0    |
+| [Cryptanalysis](./RootMe/Cryptanalysis/)   |   1    |
 | [Steganography](./RootMe/Steganography/)   |   0    |
 | [Network](./RootMe/Network/)         |   14   |
 | [Forensics](./RootMe/Forensics/)       |   0    |
@@ -44,10 +44,10 @@ cybersec-writeups/
 | [CTF-ATD](./RootMe/CTF-ATD/)         |   1    |
 | [Programming](./RootMe/Programming/)     |   1    |
 | [Cracking](./RootMe/Cracking/)        |   2    |
-| [Realistic](./RootMe/Realistic/)     |   0    |
-| **Total**       | **24** |
+| [Realistic](./RootMe/Realistic/)     |   1    |
+| **Total**       | **26** |
 
-**Score:** 245 pts | **Rank:** 66 407 / 323 042
+**Score:** 260 pts | **Rank:** 63 829 / 323 042
 
 ---
 
@@ -57,7 +57,7 @@ cybersec-writeups/
 |----------|-----------|
 | [SQL Injection](./PortSwigger/SQL-Injection/) | 12 / 16 |
 | [Cross-Site Scripting (XSS)](./PortSwigger/XSS/) | 10 / 30 |
-| [Cross-Site Request Forgery (CSRF)](./PortSwigger/CSRF/) | 0 / 8 |
+| [Cross-Site Request Forgery (CSRF)](./PortSwigger/CSRF/) | 1 / 8 |
 | [Clickjacking](./PortSwigger/Clickjacking/) | 0 / 5 |
 | [DOM-based vulnerabilities](./PortSwigger/DOM-Based-Vulnerabilities/) | 0 / 7 |
 | [Cross-origin resource sharing (CORS)](./PortSwigger/CORS/) | 0 / 3 |
@@ -86,7 +86,7 @@ cybersec-writeups/
 | [API Testing](./PortSwigger/API-Testing/) | 0 / 5 |
 | [Web LLM Attacks](./PortSwigger/Web-LLM-Attacks/) | 4 / 7 |
 | [Web Cache Deception](./PortSwigger/Web-Cache-Deception/) | 0 / 5 |
-| **Total** | **27 / 265** |
+| **Total** | **28 / 265** |
 
 ---
 
@@ -112,7 +112,7 @@ cybersec-writeups/
 
 ## Goals
 
-- [ ] Reach 50 Root-Me challenges (currently 24/50)
+- [ ] Reach 50 Root-Me challenges (currently 26/50)
 - [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
 - [x] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **April 23, 2026** — Updated PortSwigger counters after AI agents exfiltration writeup
+📅 **April 30, 2026** — Updated Root-Me and PortSwigger counters after adding new writeups
 
 ---
 
