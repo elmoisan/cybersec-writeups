@@ -43,11 +43,11 @@ cybersec-writeups/
 | [App - System](./RootMe/App-System/)    |   0    |
 | [CTF-ATD](./RootMe/CTF-ATD/)         |   1    |
 | [Programming](./RootMe/Programming/)     |   1    |
-| [Cracking](./RootMe/Cracking/)        |   2    |
+| [Cracking](./RootMe/Cracking/)        |   3    |
 | [Realistic](./RootMe/Realistic/)     |   1    |
-| **Total**       | **27** |
+| **Total**       | **28** |
 
-**Score:** 265 pts | **Rank:** 62 812 / 323 042
+**Score:** 270 pts | **Rank:** 61 850 / 323 042
 
 ---
 
@@ -112,7 +112,7 @@ cybersec-writeups/
 
 ## Goals
 
-- [ ] Reach 50 Root-Me challenges (currently 27/50)
+- [ ] Reach 50 Root-Me challenges (currently 28/50)
 - [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
 - [x] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **April 30, 2026** — Updated Root-Me counters after new Cryptanalysis solve
+📅 **May 2, 2026** — Updated Root-Me counters after new Cracking writeup
 
 ---
 
