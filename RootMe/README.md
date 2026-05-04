@@ -21,4 +21,4 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | [Programming](./Programming/)        | Programming     |   1    |
 | [Cracking](./Cracking/)              | Cracking        |   3    |
 | [Realistic](./Realistic/)            | Realistic       |   1    |
-| **Total**                            |                 | **28** |
+| **Total**                            |                 | **29** |
