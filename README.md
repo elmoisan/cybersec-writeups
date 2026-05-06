@@ -43,9 +43,9 @@ cybersec-writeups/
 | [App - System](./RootMe/App-System/)    |   0    |
 | [CTF-ATD](./RootMe/CTF-ATD/)         |   1    |
 | [Programming](./RootMe/Programming/)     |   1    |
-| [Cracking](./RootMe/Cracking/)        |   5    |
+| [Cracking](./RootMe/Cracking/)        |   7    |
 | [Realistic](./RootMe/Realistic/)     |   1    |
-| **Total**       | **30** |
+| **Total**       | **32** |
 
 **Score:** 290 pts | **Rank:** 58 183 / 326 242
 
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **May 5, 2026** — Updated Root-Me counters after new Godot writeup
+📅 **May 7, 2026** — Updated Root-Me counters after new ELF MIPS writeup
 
 ---
 

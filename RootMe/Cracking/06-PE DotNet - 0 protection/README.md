@@ -8,7 +8,7 @@ A Visual Basic .NET WinForms crackme with absolutely no obfuscation.
 In .NET assemblies, all string literals are stored verbatim as UTF-16LE in the `#US`
 (User Strings) metadata heap — including the password. One `strings -el` call is enough.
 
-**Flag:** `DotNetOP`
+**Flag:** `[REDACTED]`
 
 ---
 
