@@ -6,7 +6,7 @@ Root-Me — Cracking challenges.
 
 | Solved | Total |
 |:------:|:-----:|
-|   7    |   7   |
+|   8    |   8   |
 
 ---
 
@@ -21,3 +21,4 @@ Root-Me — Cracking challenges.
 | 05 | Godot - 0 protection | [README](./05-Godot%20-%200%20protection/README.md) |
 | 06 | PE DotNet - 0 protection | [README](./06-PE%20DotNet%20-%200%20protection/README.md) |
 | 07 | ELF MIPS - Basic Crackme | [README](./07-ELF%20MIPS%20-%20Basic%20Crackme/README.md) |
+| 08 | APK - Introduction | [README](./08-APK%20-%20Introduction/README.md) |

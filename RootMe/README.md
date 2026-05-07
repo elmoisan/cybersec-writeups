@@ -19,7 +19,7 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | [App-System](./App-System/)          | App - System    |   0    |
 | [CTF-ATD](./CTF-ATD/)                | CTF-ATD         |   1    |
 | [Programming](./Programming/)        | Programming     |   1    |
-| [Cracking](./Cracking/)              | Cracking        |   7    |
+| [Cracking](./Cracking/)              | Cracking        |   8    |
 | [Realistic](./Realistic/)            | Realistic       |   1    |
-| **Total**                            |                 | **30** |
+| **Total**                            |                 | **33** |
 | **Total**                            |                 | **32** |
