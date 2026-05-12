@@ -43,11 +43,11 @@ cybersec-writeups/
 | [App - System](./RootMe/App-System/)    |   0    |
 | [CTF-ATD](./RootMe/CTF-ATD/)         |   1    |
 | [Programming](./RootMe/Programming/)     |   1    |
-| [Cracking](./RootMe/Cracking/)        |   8    |
+| [Cracking](./RootMe/Cracking/)        |   9    |
 | [Realistic](./RootMe/Realistic/)     |   1    |
-| **Total**       | **33** |
+| **Total**       | **34** |
 
-**Score:** 290 pts | **Rank:** 58 183 / 326 242
+**Score:** 345 pts | **Rank:** 49 551 / 326 242
 
 ---
 
@@ -112,7 +112,7 @@ cybersec-writeups/
 
 ## Goals
 
-- [ ] Reach 50 Root-Me challenges (currently 33/50)
+- [ ] Reach 50 Root-Me challenges (currently 34/50)
 - [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
 - [x] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **May 7, 2026** — Updated Root-Me counters after new APK writeup
+📅 **May 12, 2026** — Added Golang cracking folder and updated counters
 
 ---
 
