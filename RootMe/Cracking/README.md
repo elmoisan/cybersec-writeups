@@ -6,7 +6,7 @@ Root-Me — Cracking challenges.
 
 | Solved | Total |
 |:------:|:-----:|
-|   9    |   9   |
+|   10   |   10  |
 
 ---
 
@@ -23,3 +23,4 @@ Root-Me — Cracking challenges.
 | 07 | ELF MIPS - Basic Crackme | [README](./07-ELF%20MIPS%20-%20Basic%20Crackme/README.md) |
 | 08 | APK - Introduction | [README](./08-APK%20-%20Introduction/README.md) |
 | 09 | ELF x64 - Golang basique | [README](./09-ELF%20x64%20-%20Golang%20basique/README.md) |
+| 10 | ELF x86 - Fake Instructions | [README](./10-ELF%20x86%20-%20Fake%20Instructions/README.md) |
