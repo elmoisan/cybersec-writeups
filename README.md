@@ -37,7 +37,7 @@ cybersec-writeups/
 | [Web - Server](./RootMe/Web-Serveur/)    |   3    |
 | [Cryptanalysis](./RootMe/Cryptanalysis/)   |   2    |
 | [Steganography](./RootMe/Steganography/)   |   0    |
-| [Network](./RootMe/Network/)         |   14   |
+| [Network](./RootMe/Network/)         |   15   |
 | [Forensics](./RootMe/Forensics/)       |   0    |
 | [App - Script](./RootMe/App-Script/)    |   3    |
 | [App - System](./RootMe/App-System/)    |   0    |
@@ -45,7 +45,7 @@ cybersec-writeups/
 | [Programming](./RootMe/Programming/)     |   1    |
 | [Cracking](./RootMe/Cracking/)        |   10   |
 | [Realistic](./RootMe/Realistic/)     |   1    |
-| **Total**       | **35** |
+| **Total**       | **36** |
 
 **Score:** 360 pts | **Rank:** 47 682 / 326 242
 
@@ -112,7 +112,7 @@ cybersec-writeups/
 
 ## Goals
 
-- [ ] Reach 50 Root-Me challenges (currently 35/50)
+- [ ] Reach 50 Root-Me challenges (currently 36/50)
 - [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
 - [x] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
@@ -121,7 +121,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **May 13, 2026** — Added ELF x86 Fake Instructions and updated counters
+📅 **Sep 06, 2026** — Added SIP authentication challenge and updated counters
 
 ---
 
