@@ -17,3 +17,4 @@
 | 13 | RF - AM Transmission | Easy | 15 | [📝](./13-rf-am-transmission/) |
 | 14 | SIP - Authentification | Easy | 20 | [📝](./14-sip-authentication/) |
 | 15 | SMB - FTP - NFS | Medium | 20 | [📝](./15-smb-ftp-nfs/) |
+| 16 | XMPP - Authentification | Medium | 45 | [📝](./16-xmpp-authentication/) |
