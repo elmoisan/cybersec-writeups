@@ -1,19 +1,19 @@
 # Cybersec Writeups — @elmoisan
 
 Welcome to my cybersecurity documentation space.
-This repository contains my writeups, notes, and learning progress across multiple cybersecurity platforms, with a focus on web security, Linux fundamentals, OSINT, and CTF challenges.
+This repository contains my writeups, notes, and learning progress across multiple cybersecurity topics, including web security, Linux fundamentals, OSINT investigations, and CTF participation.
 
 ---
 
-## Overview
+## Project dashboard
 
-| Category | Status | Last update | Notes |
-|----------|--------|-------------|-------|
-| Root-Me | Active | Sep 2026 | Core challenge tracking |
-| PortSwigger | Active | Sep 2026 | Web security labs |
-| OSINT | Active | Sep 2026 | Investigations and structured research |
-| CTF | Active | Sep 2026 | Competition notes and writeups |
-| OverTheWire | Active | Sep 2026 | Linux fundamentals and wargames |
+| Area | Status | Focus | Last update |
+|------|--------|-------|-------------|
+| Root-Me | Active | Challenge writeups and progression tracking | Sep 2026 |
+| PortSwigger | Active | Web security labs | Sep 2026 |
+| OSINT | Active | Investigations and structured analysis | Sep 2026 |
+| CTF | Active | Competition notes and writeups | Sep 2026 |
+| OverTheWire | Active | Linux wargames and command-line fundamentals | Sep 2026 |
 
 ---
 
@@ -29,16 +29,16 @@ This repository contains my writeups, notes, and learning progress across multip
 
 ---
 
-## Repository Structure
+## Repository structure
 
 ```text
 cybersec-writeups/
-├── RootMe/          → Root-Me challenges by category
+├── RootMe/          → Root-Me challenge writeups by category
 ├── PortSwigger/     → PortSwigger Web Security Academy labs
-├── OSINT/           → OSINT challenges and investigations
-├── CTF/             → CTF competitions
-├── OverTheWire/     → Linux and wargame writeups
-└── README.md        → Project overview
+├── OSINT/           → OSINT investigations and notes
+├── CTF/             → CTF competitions and event writeups
+├── OverTheWire/     → Linux and wargame documentation
+└── README.md        → Project overview and dashboard
 ```
 
 ---
@@ -144,8 +144,8 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **Sep 16, 2026** — Updated project overview, added OverTheWire tracking, and refreshed repository metadata.
+📅 **Sep 16, 2026** — Updated project overview, added Bandit writeups, and refreshed the repository progress dashboard.
 
 ---
 
-*Each writeup follows the same structure: context, methodology, solution, and most importantly — what I learned.*
+*Each writeup follows the same structure: context, methodology, solution, and the lessons learned from the challenge.*

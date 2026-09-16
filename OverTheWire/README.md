@@ -1,44 +1,44 @@
 # OverTheWire
 
-This section documents the wargames and levels completed on OverTheWire, with a focus on Linux fundamentals, command-line analysis, and privilege escalation techniques.
+This section documents the wargames and levels completed on OverTheWire, with a focus on Linux fundamentals, shell analysis, and privilege progression.
 
 ## Overview
 
 | Wargame | Focus | Status | Last update |
 |---------|-------|--------|-------------|
-| [Bandit](./Bandit/README.md) | Linux basics, shell navigation, and SSH access | In progress | Sep 2026 |
-| [Natas](./Natas/README.md) | Web application security and authentication weaknesses | Planned | - |
+| [Bandit](./Bandit/README.md) | Linux basics, file enumeration, and SSH access | In progress | Sep 2026 |
+| [Natas](./Natas/README.md) | Web authentication and application security | Planned | - |
 | [Krypton](./Krypton/README.md) | Cryptography and encoding | Planned | - |
-| [Leviathan](./Leviathan/README.md) | Binary exploitation and Linux privilege issues | Planned | - |
+| [Leviathan](./Leviathan/README.md) | Binary exploitation and basic Linux privilege issues | Planned | - |
 | [Narnia](./Narnia/README.md) | Exploit development and assembly basics | Planned | - |
-| [Maze](./Maze/README.md) | Linux privilege and challenge progression | Planned | - |
+| [Maze](./Maze/README.md) | Linux challenge progression and privilege escalation | Planned | - |
 | [Vortex](./Vortex/README.md) | Reverse engineering and exploitation | Planned | - |
 
 ---
 
 ## Structure
 
-Each wargame is organized using the following standard layout:
+Each wargame uses the following organization:
 
 | Element | Purpose |
 |---------|---------|
-| `README.md` | High-level overview of the game or level |
-| `LEVEL_TEMPLATE.md` | Standard template for writeups |
-| `00 - Level 0/README.md` | Notes and solution for a specific challenge |
-| `01 - Level 1/README.md` | Continuation of the writeup trail |
+| `README.md` | Overview of the game or level |
+| `LEVEL_TEMPLATE.md` | Standard writeup template |
+| `00 - Level 0/README.md` | First challenge writeup |
+| `01 - Level 1/README.md` | Next challenge writeup |
 | `...` | Additional levels as they are completed |
 
 ---
 
 ## Notes
 
-- Record the level number, commands used, and the final objective.
-- Document the password or flag only when relevant to the next stage.
-- Explain the reasoning behind the solution in a concise and structured manner.
-- Keep the notes readable enough to serve as a personal learning reference.
+- Record the level number, commands used, and target objective.
+- Document passwords or flags only when relevant to the next stage.
+- Explain the reasoning behind the exploit or workaround.
+- Keep the notes readable and reusable for future learning.
 
 ---
 
 ## Last Updated
 
-📅 **Sep 16, 2026** — Created the OverTheWire section and initialized the Bandit documentation workflow.
+📅 **Sep 16, 2026** — Initialized the OverTheWire section and documented the first Bandit writeups.
