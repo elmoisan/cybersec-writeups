@@ -1,51 +1,65 @@
 # Cybersec Writeups — @elmoisan
 
-Welcome to my cybersecurity documentation space.  
-This repo gathers my writeups and notes for **Root-Me** challenges, **PortSwigger** labs, **OSINT** investigations and **CTF** competitions, as part of my journey toward a master's degree in cybersecurity.
+Welcome to my cybersecurity documentation space.
+This repository contains my writeups, notes, and learning progress across multiple cybersecurity platforms, with a focus on web security, Linux fundamentals, OSINT, and CTF challenges.
+
+---
+
+## Overview
+
+| Category | Status | Last update | Notes |
+|----------|--------|-------------|-------|
+| Root-Me | Active | Sep 2026 | Core challenge tracking |
+| PortSwigger | Active | Sep 2026 | Web security labs |
+| OSINT | Active | Sep 2026 | Investigations and structured research |
+| CTF | Active | Sep 2026 | Competition notes and writeups |
+| OverTheWire | Active | Sep 2026 | Linux fundamentals and wargames |
 
 ---
 
 ## Profiles
 
-| Platform | Link                                               |
-|----------|----------------------------------------------------|
-| GitHub      | [@elmoisan](https://github.com/elmoisan)                                              |
-| LinkedIn    | [Elodie Moisan](https://www.linkedin.com/in/elodie-moisan-233115276/)                 |
-| Root-Me     | [elodieee](https://www.root-me.org/elodieee)                                         |
-| HackTheBox  | [@Elodieee](https://www.hackthebox.com/home/users/profile/Elodieee)                 |
-| PortSwigger | [Elodie](https://portswigger.net/web-security/dashboard)                             |
+| Platform | Link |
+|----------|------|
+| GitHub | [@elmoisan](https://github.com/elmoisan) |
+| LinkedIn | [Elodie Moisan](https://www.linkedin.com/in/elodie-moisan-233115276/) |
+| Root-Me | [elodieee](https://www.root-me.org/elodieee) |
+| HackTheBox | [@Elodieee](https://www.hackthebox.com/home/users/profile/Elodieee) |
+| PortSwigger | [Elodie](https://portswigger.net/web-security/dashboard) |
 
 ---
 
 ## Repository Structure
 
-```
+```text
 cybersec-writeups/
 ├── RootMe/          → Root-Me challenges by category
 ├── PortSwigger/     → PortSwigger Web Security Academy labs
 ├── OSINT/           → OSINT challenges and investigations
-└── CTF/             → CTF competitions
+├── CTF/             → CTF competitions
+├── OverTheWire/     → Linux and wargame writeups
+└── README.md        → Project overview
 ```
 
 ---
 
 ## Root-Me — Progress
 
-| Category        | Solved |
-|-----------------|:------:|
-| [Web - Client](./RootMe/Web-Client/)    |   0    |
-| [Web - Server](./RootMe/Web-Serveur/)    |   3    |
-| [Cryptanalysis](./RootMe/Cryptanalysis/)   |   2    |
-| [Steganography](./RootMe/Steganography/)   |   0    |
-| [Network](./RootMe/Network/)         |   17   |
-| [Forensics](./RootMe/Forensics/)       |   0    |
-| [App - Script](./RootMe/App-Script/)    |   3    |
-| [App - System](./RootMe/App-System/)    |   0    |
-| [CTF-ATD](./RootMe/CTF-ATD/)         |   1    |
-| [Programming](./RootMe/Programming/)     |   1    |
-| [Cracking](./RootMe/Cracking/)        |   10   |
-| [Realistic](./RootMe/Realistic/)     |   1    |
-| **Total**       | **38** |
+| Category | Solved |
+|----------|:------:|
+| [Web - Client](./RootMe/Web-Client/) | 0 |
+| [Web - Server](./RootMe/Web-Serveur/) | 3 |
+| [Cryptanalysis](./RootMe/Cryptanalysis/) | 2 |
+| [Steganography](./RootMe/Steganography/) | 0 |
+| [Network](./RootMe/Network/) | 17 |
+| [Forensics](./RootMe/Forensics/) | 0 |
+| [App - Script](./RootMe/App-Script/) | 3 |
+| [App - System](./RootMe/App-System/) | 0 |
+| [CTF-ATD](./RootMe/CTF-ATD/) | 1 |
+| [Programming](./RootMe/Programming/) | 1 |
+| [Cracking](./RootMe/Cracking/) | 10 |
+| [Realistic](./RootMe/Realistic/) | 1 |
+| **Total** | **38** |
 
 **Score:** 360 pts | **Rank:** 47 682 / 326 242
 
@@ -90,6 +104,14 @@ cybersec-writeups/
 
 ---
 
+## OverTheWire — Progress
+
+| Wargame | Status | Last update | Notes |
+|---------|--------|-------------|-------|
+| [Bandit](./OverTheWire/Bandit/) | In progress | Sep 2026 | Linux basics and SSH navigation |
+
+---
+
 ## OSINT — Progress
 
 | Platform | Completed |
@@ -100,8 +122,8 @@ cybersec-writeups/
 
 ## CTF — Participations
 
-| Event              | Date | Rank |
-|--------------------|------|------|
+| Event | Date | Rank |
+|-------|------|------|
 | [Bellatrix — COMCYBER](./CTF/Bellatrix-2026/) | 24-26/03/2026 | 298 / 2,000 |
 | [France Cybersecurity Challenge](./CTF/FCSC-2026/) | 03-12/04/2026 | N/A |
 | [CyberNSPICE](./CTF/CyberNSPICE-2026/) | 11/04/2026 | 14 / 100 |
@@ -116,13 +138,14 @@ cybersec-writeups/
 - [ ] Complete SQL Injection + XSS labs on PortSwigger (22/46)
 - [x] Participate in 3 CTF competitions in 2026
 - [ ] Complete 10 Bellingcat OSINT challenges
+- [ ] Progress consistently through OverTheWire Bandit
 
 ---
 
 ## Last Updated
 
-📅 **Sep 06, 2026** — Added ICMP challenge and updated counters
+📅 **Sep 16, 2026** — Updated project overview, added OverTheWire tracking, and refreshed repository metadata.
 
 ---
 
-*Each writeup follows the same format: context, methodology, solution, and most importantly — what I learned.*
+*Each writeup follows the same structure: context, methodology, solution, and most importantly — what I learned.*
