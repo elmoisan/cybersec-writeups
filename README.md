@@ -144,7 +144,7 @@ cybersec-writeups/
 
 ## Last Updated
 
-📅 **Sep 16, 2026** — Updated project overview, added Bandit writeups, and refreshed the repository progress dashboard.
+📅 **Sep 16, 2026** — Updated project overview, added Bandit Levels 0–2, and refreshed the repository dashboard.
 
 ---
 

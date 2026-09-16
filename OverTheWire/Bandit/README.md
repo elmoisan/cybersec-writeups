@@ -10,7 +10,7 @@
 | Focus | Linux fundamentals, SSH access, shell navigation |
 | Status | In progress |
 | Last update | Sep 2026 |
-| Current level | [00 - Level 0](./00%20-%20Level%200/README.md) |
+| Current level | [02 - Level 2](./02%20-%20Level%202/README.md) |
 
 ---
 
@@ -36,6 +36,7 @@ Use the password recovered from the previous level to continue to the next chall
 |-------|--------|-------|
 | [00 - Level 0](./00%20-%20Level%200/README.md) | Completed | Initial Linux file enumeration |
 | [01 - Level 1](./01%20-%20Level%201/README.md) | Completed | Handling a file named `-` |
+| [02 - Level 2](./02%20-%20Level%202/README.md) | Completed | Handling spaces and leading dashes in filenames |
 
 ---
 
@@ -47,4 +48,4 @@ Each writeup follows a consistent structure using the project template in `LEVEL
 
 ## Last Updated
 
-📅 **Sep 16, 2026** — Documented Bandit Level 0 and Level 1 and refreshed the writeup index.
+📅 **Sep 16, 2026** — Documented Bandit Level 0, Level 1, and Level 2 and refreshed the writeup index.
