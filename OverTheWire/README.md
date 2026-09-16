@@ -26,8 +26,9 @@ Each wargame uses the following organization:
 | `LEVEL_TEMPLATE.md` | Standard writeup template |
 | `00 - Level 0/README.md` | First challenge writeup |
 | `01 - Level 1/README.md` | Next challenge writeup |
-| `02 - Level 2/README.md` | Current writeup tracking |
+| `02 - Level 2/README.md` | File-name ambiguity writeup |
 | `03 - Level 3/README.md` | Hidden-file challenge writeup |
+| `04 - Level 4/README.md` | Candidate-file analysis writeup |
 | `...` | Additional levels as they are completed |
 
 ---
@@ -43,4 +44,4 @@ Each wargame uses the following organization:
 
 ## Last Updated
 
-📅 **Sep 16, 2026** — Initialized the OverTheWire section and documented Bandit Levels 0 to 3.
+📅 **Sep 16, 2026** — Initialized the OverTheWire section and documented Bandit Levels 0 to 4.
