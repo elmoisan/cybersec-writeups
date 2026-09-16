@@ -10,7 +10,7 @@
 | Focus | Linux fundamentals, SSH access, shell navigation |
 | Status | In progress |
 | Last update | Sep 2026 |
-| Current level | [04 - Level 4](./04%20-%20Level%204/README.md) |
+| Current level | [05 - Level 5](./05%20-%20Level%205/README.md) |
 
 ---
 
@@ -39,6 +39,7 @@ Use the password recovered from the previous level to continue to the next chall
 | [02 - Level 2](./02%20-%20Level%202/README.md) | Completed | Handling spaces and leading dashes in filenames |
 | [03 - Level 3](./03%20-%20Level%203/README.md) | Completed | Hidden files and file-versus-directory checks |
 | [04 - Level 4](./04%20-%20Level%204/README.md) | Completed | Identifying the only readable file among decoys |
+| [05 - Level 5](./05%20-%20Level%205/README.md) | Completed | Finding a file by exact size in a nested tree |
 
 ---
 
@@ -50,4 +51,4 @@ Each writeup follows a consistent structure using the project template in `LEVEL
 
 ## Last Updated
 
-📅 **Sep 16, 2026** — Documented Bandit Levels 0 to 4 and refreshed the writeup index.
+📅 **Sep 17, 2026** — Documented Bandit Levels 0 to 5 and refreshed the writeup index.

@@ -1,47 +1,61 @@
 # OverTheWire
 
-This section documents the wargames and levels completed on OverTheWire, with a focus on Linux fundamentals, shell analysis, and privilege progression.
+This directory contains my personal writeups for the OverTheWire wargames and related challenge notes.
 
 ## Overview
 
-| Wargame | Focus | Status | Last update |
-|---------|-------|--------|-------------|
-| [Bandit](./Bandit/README.md) | Linux basics, file enumeration, and SSH access | In progress | Sep 2026 |
-| [Natas](./Natas/README.md) | Web authentication and application security | Planned | - |
-| [Krypton](./Krypton/README.md) | Cryptography and encoding | Planned | - |
-| [Leviathan](./Leviathan/README.md) | Binary exploitation and basic Linux privilege issues | Planned | - |
-| [Narnia](./Narnia/README.md) | Exploit development and assembly basics | Planned | - |
-| [Maze](./Maze/README.md) | Linux challenge progression and privilege escalation | Planned | - |
-| [Vortex](./Vortex/README.md) | Reverse engineering and exploitation | Planned | - |
+| Category | Status | Notes |
+|----------|--------|-------|
+| Bandit | In progress | Linux fundamentals and SSH navigation |
+| Natas | Planned | Web exploitation and HTTP basics |
+| Krypton | Planned | Cryptography and CTF concepts |
+| Leviathan | Planned | Binary exploitation and reverse engineering |
+| Narnia | Planned | Buffer overflow and exploitation basics |
+| Maze | Planned | Linux privilege escalation and challenge progression |
+| Vortex | Planned | Advanced exploitation and lower-level attack paths |
 
 ---
 
-## Structure
+## Game structure
 
-Each wargame uses the following organization:
+| Game | Path | Status |
+|------|------|--------|
+| Bandit | [Bandit](./Bandit/README.md) | Active |
+| Natas | ./Natas | Planned |
+| Krypton | ./Krypton | Planned |
+| Leviathan | ./Leviathan | Planned |
+| Narnia | ./Narnia | Planned |
+| Maze | ./Maze | Planned |
+| Vortex | ./Vortex | Planned |
 
-| Element | Purpose |
-|---------|---------|
-| `README.md` | Overview of the game or level |
-| `LEVEL_TEMPLATE.md` | Standard writeup template |
-| `00 - Level 0/README.md` | First challenge writeup |
-| `01 - Level 1/README.md` | Next challenge writeup |
-| `02 - Level 2/README.md` | File-name ambiguity writeup |
-| `03 - Level 3/README.md` | Hidden-file challenge writeup |
-| `04 - Level 4/README.md` | Candidate-file analysis writeup |
-| `...` | Additional levels as they are completed |
+---
+
+## Current progress
+
+Bandit is the active track. The following levels are documented:
+
+- [00 - Level 0](./Bandit/00%20-%20Level%200/README.md)
+- [01 - Level 1](./Bandit/01%20-%20Level%201/README.md)
+- [02 - Level 2](./Bandit/02%20-%20Level%202/README.md)
+- [03 - Level 3](./Bandit/03%20-%20Level%203/README.md)
+- [04 - Level 4](./Bandit/04%20-%20Level%204/README.md)
+- [05 - Level 5](./Bandit/05%20-%20Level%205/README.md)
 
 ---
 
 ## Notes
 
-- Record the level number, commands used, and target objective.
-- Document passwords or flags only when relevant to the next stage.
-- Explain the reasoning behind the exploit or workaround.
-- Keep the notes readable and reusable for future learning.
+The writeups are designed to be concise but professional, with a consistent structure that highlights:
+
+- challenge goal
+- connection and reconnaissance
+- command usage
+- root cause and solution
+- lessons learned
+- supporting references
 
 ---
 
-## Last Updated
+## Last updated
 
-📅 **Sep 16, 2026** — Initialized the OverTheWire section and documented Bandit Levels 0 to 4.
+📅 **Sep 17, 2026** — Updated documentation for Bandit Level 5 and refreshed the index pages.
