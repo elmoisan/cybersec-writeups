@@ -10,7 +10,7 @@
 | Focus | Linux fundamentals, SSH access, shell navigation |
 | Status | In progress |
 | Last update | Sep 2026 |
-| Current level | [06 - Level 6](./06%20-%20Level%206/README.md) |
+| Current level | [07 - Level 7](./07%20-%20Level%207/README.md) |
 
 ---
 
@@ -41,6 +41,7 @@ Use the password recovered from the previous level to continue to the next chall
 | [04 - Level 4](./04%20-%20Level%204/README.md) | Completed | Identifying the only readable file among decoys |
 | [05 - Level 5](./05%20-%20Level%205/README.md) | Completed | Finding a file by exact size in a nested tree |
 | [06 - Level 6](./06%20-%20Level%206/README.md) | Completed | Finding a file by ownership, group, and exact size across `/` |
+| [07 - Level 7](./07%20-%20Level%207/README.md) | Completed | Finding a keyword in a large file with `grep` |
 
 ---
 
@@ -52,4 +53,4 @@ Each writeup follows a consistent structure using the project template in `LEVEL
 
 ## Last Updated
 
-📅 **Sep 18, 2026** — Documented Bandit Levels 0 to 6 and refreshed the writeup index.
+📅 **Sep 18, 2026** — Documented Bandit Levels 0 to 7 and refreshed the writeup index.

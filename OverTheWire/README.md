@@ -41,6 +41,7 @@ Bandit is the active track. The following levels are documented:
 - [04 - Level 4](./Bandit/04%20-%20Level%204/README.md)
 - [05 - Level 5](./Bandit/05%20-%20Level%205/README.md)
 - [06 - Level 6](./Bandit/06%20-%20Level%206/README.md)
+- [07 - Level 7](./Bandit/07%20-%20Level%207/README.md)
 
 ---
 
@@ -59,4 +60,4 @@ The writeups are designed to be concise but professional, with a consistent stru
 
 ## Last updated
 
-📅 **Sep 18, 2026** — Updated documentation for Bandit Level 6 and refreshed the index pages.
+📅 **Sep 18, 2026** — Updated documentation for Bandit Level 7 and refreshed the index pages.
