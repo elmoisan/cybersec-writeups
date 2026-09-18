@@ -18,7 +18,7 @@ This repository is a personal collection of writeups, notes, and challenge walkt
 
 | Project | Last update | Notes |
 |---------|-------------|-------|
-| OverTheWire | Sep 17, 2026 | Bandit Levels 0–5 documented |
+| OverTheWire | Sep 18, 2026 | Bandit Levels 0–6 documented |
 | PortSwigger | Ongoing | Security labs and web vulnerability notes |
 | RootMe | Ongoing | Platform challenges and solutions |
 | OSINT | Ongoing | Investigative case notes |
@@ -53,7 +53,8 @@ cybersec-writeups/
 │       ├── 02 - Level 2/
 │       ├── 03 - Level 3/
 │       ├── 04 - Level 4/
-│       └── 05 - Level 5/
+│       ├── 05 - Level 5/
+│       └── 06 - Level 6/
 └── ...
 ```
 
@@ -61,4 +62,4 @@ cybersec-writeups/
 
 ## Last updated
 
-📅 **Sep 17, 2026** — Updated the OverTheWire Bandit documentation and refreshed the repository dashboard.
+📅 **Sep 18, 2026** — Updated the OverTheWire Bandit documentation and refreshed the repository dashboard.
