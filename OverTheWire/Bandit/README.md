@@ -10,7 +10,7 @@
 | Focus | Linux fundamentals, SSH access, shell navigation |
 | Status | In progress |
 | Last update | Sep 2026 |
-| Current level | [08 - Level 8](./08%20-%20Level%208/README.md) |
+| Current level | [09 - Level 9](./09%20-%20Level%209/README.md) |
 
 ---
 
@@ -43,6 +43,7 @@ Use the password recovered from the previous level to continue to the next chall
 | [06 - Level 6](./06%20-%20Level%206/README.md) | Completed | Finding a file by ownership, group, and exact size across `/` |
 | [07 - Level 7](./07%20-%20Level%207/README.md) | Completed | Finding a keyword in a large file with `grep` |
 | [08 - Level 8](./08%20-%20Level%208/README.md) | Completed | Finding the unique line with `sort` and `uniq -u` |
+| [09 - Level 9](./09%20-%20Level%209/README.md) | Completed | Extracting readable text from a mixed-content file with `strings` |
 
 ---
 
@@ -54,4 +55,4 @@ Each writeup follows a consistent structure using the project template in `LEVEL
 
 ## Last Updated
 
-📅 **Sep 18, 2026** — Documented Bandit Levels 0 to 8 and refreshed the writeup index.
+📅 **Sep 18, 2026** — Documented Bandit Levels 0 to 9 and refreshed the writeup index.
