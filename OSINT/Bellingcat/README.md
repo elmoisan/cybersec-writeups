@@ -6,7 +6,7 @@ Writeups for the [Bellingcat Investigation Challenges](https://challenge.belling
 
 ## Progress Counter
 
-Total: **15 categories × 5 challenges = 75 challenges** — Completed: **2 / 75**
+Total: **15 categories × 5 challenges = 75 challenges** — Completed: **0 / 75**
 
 | Category | Completed | Total |
 |----------|:---------:|:-----:|
@@ -25,7 +25,7 @@ Total: **15 categories × 5 challenges = 75 challenges** — Completed: **2 / 75
 | Urban Exploration | 0 | 5 |
 | Maritime Mysteries | 0 | 5 |
 | Bellingcat Globetrotters | 0 | 5 |
-| **Total** | **2** | **75** |
+| **Total** | **0** | **75** |
 
 ---
 
@@ -34,3 +34,45 @@ Total: **15 categories × 5 challenges = 75 challenges** — Completed: **2 / 75
 | # | Challenge | Writeup |
 |---|-----------|---------|
 | 1 | [Background Check](./Background%20Check/) | 📝 |
+| 2 | [Back in Time](./Back%20in%20Time/) | 📝 |
+| 3 | [Bellingcat Globetrotters](./Bellingcat%20Globetrotters/) | 📝 |
+| 4 | [Coded Landscapes](./Coded%20Landscapes/) | 📝 |
+| 5 | [Cultural Confusion](./Cultural%20Confusion/) | 📝 |
+| 6 | [Hidden Hazards](./Hidden%20Hazards/) | 📝 |
+| 7 | [Maritime Mysteries](./Maritime%20Mysteries/) | 📝 |
+| 8 | [Multispectral Viewpoints](./Multispectral%20Viewpoints/) | 📝 |
+| 9 | [Natural Wonders](./Natural%20Wonders/) | 📝 |
+| 10 | [Oceans of Evidence](./Oceans%20of%20Evidence/) | 📝 |
+| 11 | [Puzzling Postcards](./Puzzling%20Postcards/) | 📝 |
+| 12 | [Shifting Perspectives](./Shifting%20Perspectives/) | 📝 |
+| 13 | [The Forgotten Files](./The%20Forgotten%20Files/) | 📝 |
+| 14 | [Urban Exploration](./Urban%20Exploration/) | 📝 |
+| 15 | [Wild Lives](./Wild%20Lives/) | 📝 |
+| 16 | [Archive 2025](./Archive%202025/) | 📝 |
+
+---
+
+## Repository structure
+
+```text
+OSINT/
+└── Bellingcat/
+    ├── README.md
+    ├── Archive 2025/
+    ├── Back in Time/
+    ├── Background Check/
+    ├── Bellingcat Globetrotters/
+    ├── Coded Landscapes/
+    ├── Cultural Confusion/
+    ├── Hidden Hazards/
+    ├── Maritime Mysteries/
+    ├── Multispectral Viewpoints/
+    ├── Natural Wonders/
+    ├── Oceans of Evidence/
+    ├── Puzzling Postcards/
+    ├── Shifting Perspectives/
+    ├── The Forgotten Files/
+    ├── Urban Exploration/
+    ├── Wild Lives/
+    └── ...
+```
