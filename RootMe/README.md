@@ -14,11 +14,11 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | [Cryptanalysis](./Cryptanalysis/)    | Cryptanalysis   |   2    |
 | [Steganography](./Steganography/)    | Steganography   |   0    |
 | [Network](./Network/)                | Network         |   17   |
-| [Forensics](./Forensics/)            | Forensics       |   0    |
+| [Forensics](./Forensics/)            | Forensics       |   1    |
 | [App-Script](./App-Script/)          | App - Script    |   3    |
 | [App-System](./App-System/)          | App - System    |   0    |
 | [CTF-ATD](./CTF-ATD/)                | CTF-ATD         |   1    |
 | [Programming](./Programming/)        | Programming     |   1    |
 | [Cracking](./Cracking/)              | Cracking        |   10   |
 | [Realistic](./Realistic/)            | Realistic       |   1    |
-| **Total**                            |                 | **38** |
+| **Total**                            |                 | **39** |
