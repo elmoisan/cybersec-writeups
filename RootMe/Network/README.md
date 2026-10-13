@@ -21,3 +21,4 @@
 | 17 | Charge ICMP | Hard | 40 | [📝](./17-icmp-charge/) |
 | 18 | ETHERNET - Altered Transmission | Frame Analysis | 25 | [📝](./18-ethernet-altered-transmission/) |
 | 19 | GSM - Network Traffic | Packet Capture Analysis | 25 | [📝](./19-gsm-network-traffic/) |
+| 20 | SNMP - Authentification | Protocol Cracking | 35 | [📝](./20-snmp-authentification/) |
