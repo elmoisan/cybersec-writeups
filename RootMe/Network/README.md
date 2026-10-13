@@ -19,3 +19,4 @@
 | 15 | SMB - FTP - NFS | Medium | 20 | [📝](./15-smb-ftp-nfs/) |
 | 16 | XMPP - Authentification | Medium | 45 | [📝](./16-xmpp-authentication/) |
 | 17 | Charge ICMP | Hard | 40 | [📝](./17-icmp-charge/) |
+| 18 | ETHERNET - Altered Transmission | Frame Analysis | 25 | [📝](./18-ethernet-altered-transmission/) |
