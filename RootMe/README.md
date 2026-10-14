@@ -11,7 +11,7 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 |--------------------------------------|-----------------|:------:|
 | [Web-Client](./Web-Client/)          | Web - Client    |   0    |
 | [Web-Serveur](./Web-Serveur/)        | Web - Server    |   3    |
-| [Cryptanalysis](./Cryptanalysis/)    | Cryptanalysis   |   2    |
+| [Cryptanalysis](./Cryptanalysis/)    | Cryptanalysis   |   3    |
 | [Steganography](./Steganography/)    | Steganography   |   0    |
 | [Network](./Network/)                | Network         |   20   |
 | [Forensics](./Forensics/)            | Forensics       |   1    |
@@ -21,4 +21,4 @@ Each folder contains one subfolder per challenge with a detailed writeup.
 | [Programming](./Programming/)        | Programming     |   1    |
 | [Cracking](./Cracking/)              | Cracking        |   10   |
 | [Realistic](./Realistic/)            | Realistic       |   1    |
-| **Total**                            |                 | **42** |
+| **Total**                            |                 | **43** |
