@@ -21,10 +21,20 @@ This repository reflects my progression in offensive security, with a focus on p
 | Domain | Status | Progress | Main focus |
 |--------|--------|----------|------------|
 | [CTF](./CTF/README.md) | Active | Ongoing | Event-based challenge solving |
+| [HTB](./HackTheBox/README.md) | Active | Linux Fundamentals in progress | HTB Academy labs and Linux fundamentals |
 | [OSINT](./OSINT/README.md) | Active | 0 / 75 | Open-source intelligence and investigation |
 | [PortSwigger](./PortSwigger/README.md) | Active | 28 / 265 labs | Web vulnerabilities and exploitation |
 | [RootMe](./RootMe/README.md) | Active | 38 challenges | Security, networking, crypto, scripting |
 | [OverTheWire](./OverTheWire/README.md) | In progress | Bandit active | Linux fundamentals and systems security |
+
+---
+
+## HTB tracking
+
+| Platform | Path | Status | Notes |
+|----------|------|--------|-------|
+| [HackTheBox](./HackTheBox/README.md) | [Operating System Fundamentals](./HackTheBox/Operating%20System%20Fundamentals/) | In progress | Linux fundamentals and system basics |
+| [HackTheBox](./HackTheBox/README.md) | [Linux Fundamentals](./HackTheBox/Operating%20System%20Fundamentals/Linux%20Fundamentals/README.md) | In progress | HTB Academy module completed, write-up added |
 
 ---
 
@@ -198,6 +208,11 @@ cybersec-writeups/
 ├── CTF/
 │   ├── README.md
 │   └── ...
+├── HackTheBox/
+│   ├── README.md
+│   └── Operating System Fundamentals/
+│       └── Linux Fundamentals/
+│           └── README.md
 ├── OSINT/
 │   ├── README.md
 │   └── Bellingcat/
@@ -255,6 +270,7 @@ Each writeup is intended to highlight:
 ## Quick links
 
 - [CTF](./CTF/README.md)
+- [HackTheBox](./HackTheBox/README.md)
 - [OSINT](./OSINT/README.md)
 - [OverTheWire](./OverTheWire/README.md)
 - [PortSwigger](./PortSwigger/README.md)
