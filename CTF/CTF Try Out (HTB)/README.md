@@ -29,3 +29,4 @@
 |---|-----------|----------|---------|
 | 1 | [It's Oops PM](./Hardware/README.md) | Hardware | [Open](./Hardware/README.md) |
 | 2 | [Critical Flight](./Hardware/Critical-Flight/README.md) | Hardware | [Open](./Hardware/Critical-Flight/README.md) |
+| 3 | [Debug](./Hardware/Debug/README.md) | Hardware | [Open](./Hardware/Debug/README.md) |
