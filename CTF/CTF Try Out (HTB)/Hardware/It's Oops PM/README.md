@@ -170,7 +170,7 @@ As predicted, the output `0110001111100001` is the raw internal key, and trigger
 ## Flag
 
 ```text
-HTB{4_7yp1c41_53cu23_TPM_ch1p}
+HTB{REDACTED}
 ```
 
 ---

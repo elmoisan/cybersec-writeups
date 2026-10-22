@@ -28,3 +28,4 @@
 | # | Challenge | Category | Writeup |
 |---|-----------|----------|---------|
 | 1 | [It's Oops PM](./Hardware/README.md) | Hardware | [Open](./Hardware/README.md) |
+| 2 | [Critical Flight](./Hardware/Critical-Flight/README.md) | Hardware | [Open](./Hardware/Critical-Flight/README.md) |
