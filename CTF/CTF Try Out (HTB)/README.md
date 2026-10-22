@@ -20,6 +20,7 @@
 - 🔧 Hardware
 - 🧪 Reverse Engineering
 - 🧠 Logic analysis
+- 🌐 ICS
 
 ---
 
@@ -31,3 +32,4 @@
 | 2 | [Critical Flight](./Hardware/Critical-Flight/README.md) | Hardware | [Open](./Hardware/Critical-Flight/README.md) |
 | 3 | [Debug](./Hardware/Debug/README.md) | Hardware | [Open](./Hardware/Debug/README.md) |
 | 4 | [Welcome to CTF](./Warmup/README.md) | Warmup | [Open](./Warmup/README.md) |
+| 5 | [Shush Protocol](./ICS/README.md) | ICS | [Open](./ICS/README.md) |
