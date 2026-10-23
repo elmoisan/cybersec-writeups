@@ -36,3 +36,4 @@
 | 5 | [Shush Protocol](./ICS/README.md) | ICS | [Open](./ICS/README.md) |
 | 6 | [Jailbreak](./Web/Jailbreak/README.md) | Web | [Open](./Web/Jailbreak/README.md) |
 | 7 | [TimeKORP](./Web/TimeKORP/README.md) | Web | [Open](./Web/TimeKORP/README.md) |
+| 8 | [Flag Command](./Web/Flag%20Command/README.md) | Web | [Open](./Web/Flag%20Command/README.md) |
