@@ -21,13 +21,13 @@ Each event has its own folder with one writeup per solved challenge.
 | Event | Date | Platform | Solved |
 |-------|------|----------|:------:|
 | [CTF-ATD — End Droid](../RootMe/CTF-ATD/end-droid/README.md) | TBD | Root-Me (CTF-ATD) | 1 |
-| [CTF Try Out (HTB)](./CTF%20Try%20Out%20(HTB)/README.md) | 2026 | Hack The Box | 6 |
+| [CTF Try Out (HTB)](./CTF%20Try%20Out%20(HTB)/README.md) | 2026 | Hack The Box | 7 |
 
 ### Global counter 2026 (all formats combined)
 
 | Total CTP | Value |
 |:---------:|:-----:|
-| **Total participations** | **11** |
+| **Total participations** | **12** |
 
 ---
 

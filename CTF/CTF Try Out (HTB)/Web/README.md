@@ -9,3 +9,4 @@
 | # | Challenge | Difficulty | Writeup |
 |---|-----------|------------|---------|
 | 1 | [Jailbreak](./Jailbreak/README.md) | Easy | [Open](./Jailbreak/README.md) |
+| 2 | [TimeKORP](./TimeKORP/README.md) | Easy | [Open](./TimeKORP/README.md) |
