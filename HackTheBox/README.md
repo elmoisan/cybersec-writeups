@@ -18,6 +18,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | Path | Topic | Status |
 |------|-------|--------|
 | [Labs / Starting-Point](./Labs/Starting-Point/Meow/README.md) | HTB Starting Point — Meow | Added |
+| [Labs / Starting-Point / Fawn](./Labs/Starting-Point/Fawn/README.md) | HTB Starting Point — Fawn | Added |
 
 ---
 
