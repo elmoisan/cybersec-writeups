@@ -24,6 +24,14 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 
 ---
 
+## Reversing
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [Challenges / Reversing / SpookyPass](./Labs/Challenges/Reversing/SpookyPass/README.md) | HTB Challenge — SpookyPass (Reversing) | Added |
+
+---
+
 ## Notes
 
 This section is used to track structured learning from HackTheBox Academy modules, especially Linux and system-oriented fundamentals that complement the rest of the repository.
