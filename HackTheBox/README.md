@@ -20,6 +20,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | [Labs / Starting-Point](./Labs/Starting-Point/Meow/README.md) | HTB Starting Point — Meow | Added |
 | [Labs / Starting-Point / Fawn](./Labs/Starting-Point/Fawn/README.md) | HTB Starting Point — Fawn | Added |
 | [Labs / Starting-Point / Dancing](./Labs/Starting-Point/Dancing/README.md) | HTB Starting Point — Dancing | Added |
+| [Labs / Starting-Point / Redeemer](./Labs/Starting-Point/Redeemer/README.md) | HTB Starting Point — Redeemer | Added |
 
 ---
 
