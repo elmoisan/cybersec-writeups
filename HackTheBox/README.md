@@ -32,6 +32,14 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 
 ---
 
+## Web
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [Challenges / Web / Flag-Command](./Labs/Challenges/Web/Flag-Command/README.md) | HTB Challenge — Flag Command (Web) | Added |
+
+---
+
 ## Notes
 
 This section is used to track structured learning from HackTheBox Academy modules, especially Linux and system-oriented fundamentals that complement the rest of the repository.
