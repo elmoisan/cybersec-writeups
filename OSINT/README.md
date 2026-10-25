@@ -100,3 +100,13 @@ cybersec-writeups/
 │   └── ...
 └── ...
 ```
+
+---
+
+## Challenges
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [The Puppet Master](./The%20Puppet%20Master/README.md) | HTB — The Puppet Master (OSINT) | Added |
+
+---
