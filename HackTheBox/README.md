@@ -54,6 +54,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 |------|-------|--------|
 | [Challenges / OSINT / The Puppet Master](./Labs/Challenges/OSINT/The%20Puppet%20Master/README.md) | HTB Challenge — The Puppet Master (OSINT) | Added |
 | [Challenges / OSINT / Social Media Investigation Hub](./Labs/Challenges/OSINT/Social%20Media%20Investigation%20Hub/README.md) | HTB Challenge — Social Media Investigation Hub (OSINT) | Added |
+| [Challenges / OSINT / The Suspicious Domain](./Labs/Challenges/OSINT/The%20Suspicious%20Domain/README.md) | HTB Challenge — The Suspicious Domain (OSINT) | Added |
 
 ---
 
