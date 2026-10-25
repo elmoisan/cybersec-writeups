@@ -53,9 +53,8 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | Path | Topic | Status |
 |------|-------|--------|
 | [Challenges / OSINT / The Puppet Master](./Labs/Challenges/OSINT/The%20Puppet%20Master/README.md) | HTB Challenge — The Puppet Master (OSINT) | Added |
+| [Challenges / OSINT / Social Media Investigation Hub](./Labs/Challenges/OSINT/Social%20Media%20Investigation%20Hub/README.md) | HTB Challenge — Social Media Investigation Hub (OSINT) | Added |
 
 ---
 
-## Notes
 
-This section is used to track structured learning from HackTheBox Academy modules, especially Linux and system-oriented fundamentals that complement the rest of the repository.
