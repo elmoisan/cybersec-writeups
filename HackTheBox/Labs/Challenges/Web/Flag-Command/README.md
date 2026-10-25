@@ -152,7 +152,7 @@ curl -s -X POST http://154.57.164.83:43910/api/monitor \
 ```
 
 ```text
-HTB{D3v3l0p3r_t00l5_4r3_b35t__t0015_wh4t_d0_y0u_Th1nk??}
+HTB{REDACTED}
 ```
 
 ---

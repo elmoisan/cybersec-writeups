@@ -40,6 +40,14 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 
 ---
 
+## Satellite
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [Challenges / Satellite / First Contact](./Labs/Challenges/Satellite/First%20Contact/README.md) | HTB Challenge — First Contact (Satellite) | Added |
+
+---
+
 ## Notes
 
 This section is used to track structured learning from HackTheBox Academy modules, especially Linux and system-oriented fundamentals that complement the rest of the repository.
