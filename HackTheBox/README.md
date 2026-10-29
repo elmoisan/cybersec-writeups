@@ -58,4 +58,10 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 
 ---
 
+## ICS
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [Challenges / ICS / Ether Tag](./Labs/Challenges/ICS/Ether%20Tag/README.md) | HTB Challenge — Ether Tag (Hardware / ICS) | Added |
+
 
