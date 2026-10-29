@@ -29,6 +29,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | Path | Topic | Status |
 |------|-------|--------|
 | [Challenges / Reversing / SpookyPass](./Labs/Challenges/Reversing/SpookyPass/README.md) | HTB Challenge — SpookyPass (Reversing) | Added |
+| [Challenges / Reversing / Behind the Scenes](./Labs/Challenges/Reversing/Behind%20the%20Scenes/README.md) | HTB Challenge — Behind the Scenes (Reversing) | Added |
 
 ---
 
