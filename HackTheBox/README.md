@@ -38,6 +38,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | Path | Topic | Status |
 |------|-------|--------|
 | [Challenges / Web / Flag-Command](./Labs/Challenges/Web/Flag-Command/README.md) | HTB Challenge — Flag Command (Web) | Added |
+| [Challenges / Web / JinjaCare](./Labs/Challenges/Web/JinjaCare/README.md) | HTB Challenge — JinjaCare (Web) | Added |
 
 ---
 
