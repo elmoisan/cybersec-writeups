@@ -66,4 +66,12 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 |------|-------|--------|
 | [Challenges / ICS / Ether Tag](./Labs/Challenges/ICS/Ether%20Tag/README.md) | HTB Challenge — Ether Tag (Hardware / ICS) | Added |
 
+---
+
+## Machines
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [Machines / Cap](./Machines/Cap/README.md) | HTB Machine — Cap (Linux) | Added |
+
 
