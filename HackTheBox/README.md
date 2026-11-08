@@ -74,4 +74,14 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 |------|-------|--------|
 | [Machines / Cap](./Machines/Cap/README.md) | HTB Machine — Cap (Linux) | Added |
 
+---
+
+## Hardware
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [Challenges / Hardware / Espresso](./Labs/Challenges/Hardware/Espresso/README.md) | HTB Challenge — Espresso (Hardware / Firmware) | Added |
+
+---
+
 
