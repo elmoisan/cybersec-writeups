@@ -72,7 +72,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 
 | Path | Topic | Status |
 |------|-------|--------|
-| [Machines / Cap](./Machines/Cap/README.md) | HTB Machine — Cap (Linux) | Added |
+| [Labs / Machines / Cap](./Labs/Machines/Cap/README.md) | HTB Machine — Cap (Linux) | Added |
 
 ---
 
@@ -81,6 +81,14 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | Path | Topic | Status |
 |------|-------|--------|
 | [Challenges / Hardware / Espresso](./Labs/Challenges/Hardware/Espresso/README.md) | HTB Challenge — Espresso (Hardware / Firmware) | Added |
+
+---
+
+## Sherlocks
+
+| Path | Topic | Status |
+|------|-------|--------|
+| [Sherlocks / Brutus](./Labs/Sherlocks/Brutus/README.md) | HTB Sherlock — Brutus (DFIR) | Added |
 
 ---
 
