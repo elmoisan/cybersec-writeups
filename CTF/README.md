@@ -15,6 +15,7 @@ Each event has its own folder with one writeup per solved challenge.
 | [France Cybersecurity Challenge](./FCSC-2026/) | 03-12/04/2026 | TBD | TBD |
 | [CyberNSPICE](./CyberNSPICE-2026/) | 11/04/2026 | TBD | TBD |
 | [BreizhCTF](./BreizhCTF-2026/) | 23/05/2026 | TBD | TBD |
+| [HTB CTF Try Out](./CTF%20Try%20Out%20(HTB)/README.md) | 2026 | TBD | 9 |
 
 ### Internal / Training CTFs
 

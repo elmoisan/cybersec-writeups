@@ -16,6 +16,19 @@ This repository reflects my progression in offensive security, with a focus on p
 | PortSwigger | 28 / 265 labs |
 | RootMe challenges | 38 |
 
+### HTB portfolio snapshot
+
+| Area | Path | Writeups | Notes |
+|------|------|:--------:|-------|
+| Starting Point | [HackTheBox/Labs/Starting-Point](./HackTheBox/Labs/Starting-Point/) | 4 | Meow, Fawn, Dancing, Redeemer |
+| Challenges | [HackTheBox/Labs/Challenges](./HackTheBox/Labs/Challenges/) | 10 | Web, Reversing, OSINT, Satellite, Hardware, ICS |
+| Machines | [HackTheBox/Labs/Machines](./HackTheBox/Labs/Machines/) | 1 | Cap |
+| Sherlocks | [HackTheBox/Labs/Sherlocks](./HackTheBox/Labs/Sherlocks/) | 1 | Brutus |
+| Academy | [HackTheBox/Academy](./HackTheBox/Academy/) | 1 | Linux Fundamentals |
+| Total HTB documentation | [HackTheBox](./HackTheBox/README.md) | 17 | README-based writeup count |
+
+---
+
 ## Overview
 
 | Domain | Status | Progress | Main focus |
@@ -71,8 +84,9 @@ This repository reflects my progression in offensive security, with a focus on p
 | [CyberNSPICE](./CTF/CyberNSPICE-2026/README.md) | 11/04/2026 | TBD | Participated |
 | [BreizhCTF](./CTF/BreizhCTF-2026/README.md) | 23/05/2026 | TBD | Participated |
 | [CTF-ATD — End Droid](./RootMe/CTF-ATD/) | TBD | TBD | Training / internal challenge |
+| [HackTheBox - HTB CTF](./HackTheBox/README.md) | TBD | TBD | HTB CTF participation |
 
-Total participations: 5
+Total participations: 6
 
 ---
 
@@ -257,16 +271,6 @@ Each writeup is intended to highlight:
 
 ---
 
-## Current focus
-
-- Continue the OverTheWire Bandit track with methodical writeups,
-- Maintain consistent challenge documentation across all sections,
-- Expand web application security labs on PortSwigger,
-- Develop OSINT capabilities and investigation processes,
-- Build a professional repository that demonstrates real progress and structured learning.
-
----
-
 ## Quick links
 
 - [CTF](./CTF/README.md)
@@ -281,6 +285,6 @@ Each writeup is intended to highlight:
 
 ## Last updated
 
-October 8, 2026 - portfolio dashboard refreshed with updated rankings, challenge tracking, and repository overview.
+November 10, 2026 - portfolio dashboard refreshed with updated HTB stats, CTF tracking, challenge coverage, and repository structure.
 
-This project represents a structured cybersecurity learning path: disciplined, documented, and continuously progressing.
+This project continues to evolve as a structured cybersecurity learning path: disciplined, documented, and steadily progressing across labs, challenges, machines, and event writeups.
