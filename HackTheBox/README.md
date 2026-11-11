@@ -90,6 +90,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 |------|-------|--------|
 | [Sherlocks / Brutus](./Labs/Sherlocks/Brutus/README.md) | HTB Sherlock — Brutus (DFIR) | Added |
 | [Sherlocks / SSHole](./Labs/Sherlocks/SSHole/README.md) | HTB Sherlock — SSHole (DFIR) | Added |
+| [Sherlocks / Baggage](./Labs/Sherlocks/Baggage/README.md) | HTB Sherlock — Baggage (DFIR) | Added |
 
 ---
 

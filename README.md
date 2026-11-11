@@ -23,9 +23,9 @@ This repository reflects my progression in offensive security, with a focus on p
 | Starting Point | [HackTheBox/Labs/Starting-Point](./HackTheBox/Labs/Starting-Point/) | 4 | Meow, Fawn, Dancing, Redeemer |
 | Challenges | [HackTheBox/Labs/Challenges](./HackTheBox/Labs/Challenges/) | 10 | Web, Reversing, OSINT, Satellite, Hardware, ICS |
 | Machines | [HackTheBox/Labs/Machines](./HackTheBox/Labs/Machines/) | 1 | Cap |
-| Sherlocks | [HackTheBox/Labs/Sherlocks](./HackTheBox/Labs/Sherlocks/) | 2 | Brutus, SSHole |
+| Sherlocks | [HackTheBox/Labs/Sherlocks](./HackTheBox/Labs/Sherlocks/) | 3 | Brutus, SSHole, Baggage |
 | Academy | [HackTheBox/Academy](./HackTheBox/Academy/) | 1 | Linux Fundamentals |
-| Total HTB documentation | [HackTheBox](./HackTheBox/README.md) | 18 | README-based writeup count |
+| Total HTB documentation | [HackTheBox](./HackTheBox/README.md) | 19 | README-based writeup count |
 
 ---
 
@@ -51,6 +51,7 @@ This repository reflects my progression in offensive security, with a focus on p
 | [HackTheBox](./HackTheBox/README.md) | [Labs / Machines / Cap](./HackTheBox/Labs/Machines/Cap/README.md) | Added | Linux machine walkthrough |
 | [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / Brutus](./HackTheBox/Labs/Sherlocks/Brutus/README.md) | Added | DFIR investigation write-up |
 | [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / SSHole](./HackTheBox/Labs/Sherlocks/SSHole/README.md) | Added | SSH bypass analysis |
+| [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / Baggage](./HackTheBox/Labs/Sherlocks/Baggage/README.md) | Added | Shellbag forensic investigation |
 
 ---
 
