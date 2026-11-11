@@ -23,9 +23,9 @@ This repository reflects my progression in offensive security, with a focus on p
 | Starting Point | [HackTheBox/Labs/Starting-Point](./HackTheBox/Labs/Starting-Point/) | 4 | Meow, Fawn, Dancing, Redeemer |
 | Challenges | [HackTheBox/Labs/Challenges](./HackTheBox/Labs/Challenges/) | 10 | Web, Reversing, OSINT, Satellite, Hardware, ICS |
 | Machines | [HackTheBox/Labs/Machines](./HackTheBox/Labs/Machines/) | 1 | Cap |
-| Sherlocks | [HackTheBox/Labs/Sherlocks](./HackTheBox/Labs/Sherlocks/) | 1 | Brutus |
+| Sherlocks | [HackTheBox/Labs/Sherlocks](./HackTheBox/Labs/Sherlocks/) | 2 | Brutus, SSHole |
 | Academy | [HackTheBox/Academy](./HackTheBox/Academy/) | 1 | Linux Fundamentals |
-| Total HTB documentation | [HackTheBox](./HackTheBox/README.md) | 17 | README-based writeup count |
+| Total HTB documentation | [HackTheBox](./HackTheBox/README.md) | 18 | README-based writeup count |
 
 ---
 
@@ -34,7 +34,7 @@ This repository reflects my progression in offensive security, with a focus on p
 | Domain | Status | Progress | Main focus |
 |--------|--------|----------|------------|
 | [CTF](./CTF/README.md) | Active | Ongoing | Event-based challenge solving |
-| [HTB](./HackTheBox/README.md) | Active | Linux Fundamentals in progress | HTB Academy labs and Linux fundamentals |
+| [HTB](./HackTheBox/README.md) | Active | Ongoing | HTB labs, machines, challenges, and Sherlocks |
 | [OSINT](./OSINT/README.md) | Active | 0 / 75 | Open-source intelligence and investigation |
 | [PortSwigger](./PortSwigger/README.md) | Active | 28 / 265 labs | Web vulnerabilities and exploitation |
 | [RootMe](./RootMe/README.md) | Active | 38 challenges | Security, networking, crypto, scripting |
@@ -46,8 +46,11 @@ This repository reflects my progression in offensive security, with a focus on p
 
 | Platform | Path | Status | Notes |
 |----------|------|--------|-------|
-| [HackTheBox](./HackTheBox/README.md) | [Operating System Fundamentals](./HackTheBox/Operating%20System%20Fundamentals/) | In progress | Linux fundamentals and system basics |
-| [HackTheBox](./HackTheBox/README.md) | [Linux Fundamentals](./HackTheBox/Operating%20System%20Fundamentals/Linux%20Fundamentals/README.md) | In progress | HTB Academy module completed, write-up added |
+| [HackTheBox](./HackTheBox/README.md) | [Labs / Starting Point](./HackTheBox/Labs/Starting-Point/Meow/README.md) | Added | HTB starting-point and challenge write-ups |
+| [HackTheBox](./HackTheBox/README.md) | [Academy / Linux Fundamentals](./HackTheBox/Academy/Linux%20Fundamentals/README.md) | Added | HTB Academy module completed and documented |
+| [HackTheBox](./HackTheBox/README.md) | [Labs / Machines / Cap](./HackTheBox/Labs/Machines/Cap/README.md) | Added | Linux machine walkthrough |
+| [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / Brutus](./HackTheBox/Labs/Sherlocks/Brutus/README.md) | Added | DFIR investigation write-up |
+| [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / SSHole](./HackTheBox/Labs/Sherlocks/SSHole/README.md) | Added | SSH bypass analysis |
 
 ---
 
