@@ -92,6 +92,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | [Sherlocks / SSHole](./Labs/Sherlocks/SSHole/README.md) | HTB Sherlock — SSHole (DFIR) | Added |
 | [Sherlocks / Baggage](./Labs/Sherlocks/Baggage/README.md) | HTB Sherlock — Baggage (DFIR) | Added |
 | [Sherlocks / PhantomRing](./Labs/Sherlocks/PhantomRing/README.md) | HTB Sherlock — PhantomRing (DFIR / Malware Analysis) | Added |
+| [Sherlocks / MangoBleed](./Labs/Sherlocks/MangoBleed/README.md) | HTB Sherlock — MangoBleed (DFIR / Linux Triage) | Added |
 
 ---
 
