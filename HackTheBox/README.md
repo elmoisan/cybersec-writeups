@@ -94,6 +94,7 @@ Collection of HTB Academy and platform-focused learning notes, organized by topi
 | [Sherlocks / PhantomRing](./Labs/Sherlocks/PhantomRing/README.md) | HTB Sherlock — PhantomRing (DFIR / Malware Analysis) | Added |
 | [Sherlocks / MangoBleed](./Labs/Sherlocks/MangoBleed/README.md) | HTB Sherlock — MangoBleed (DFIR / Linux Triage) | Added |
 | [Sherlocks / Assistant](./Labs/Sherlocks/Assistant/README.md) | HTB Sherlock — Assistant (DFIR / Windows PCA Triage) | Added |
+| [Sherlocks / RomCom](./Labs/Sherlocks/RomCom/README.md) | HTB Sherlock — RomCom (DFIR / NTFS Triage) | Added |
 
 ---
 
