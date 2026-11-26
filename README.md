@@ -23,9 +23,9 @@ This repository reflects my progression in offensive security, with a focus on p
 | Starting Point | [HackTheBox/Labs/Starting-Point](./HackTheBox/Labs/Starting-Point/) | 4 | Meow, Fawn, Dancing, Redeemer |
 | Challenges | [HackTheBox/Labs/Challenges](./HackTheBox/Labs/Challenges/) | 10 | Web, Reversing, OSINT, Satellite, Hardware, ICS |
 | Machines | [HackTheBox/Labs/Machines](./HackTheBox/Labs/Machines/) | 1 | Cap |
-| Sherlocks | [HackTheBox/Labs/Sherlocks](./HackTheBox/Labs/Sherlocks/) | 5 | Brutus, SSHole, Baggage, PhantomRing, MangoBleed |
+| Sherlocks | [HackTheBox/Labs/Sherlocks](./HackTheBox/Labs/Sherlocks/) | 6 | Brutus, SSHole, Baggage, PhantomRing, MangoBleed, Assistant |
 | Academy | [HackTheBox/Academy](./HackTheBox/Academy/) | 1 | Linux Fundamentals |
-| Total HTB documentation | [HackTheBox](./HackTheBox/README.md) | 21 | README-based writeup count |
+| Total HTB documentation | [HackTheBox](./HackTheBox/README.md) | 22 | README-based writeup count |
 
 ---
 
@@ -53,7 +53,8 @@ This repository reflects my progression in offensive security, with a focus on p
 | [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / SSHole](./HackTheBox/Labs/Sherlocks/SSHole/README.md) | Added | SSH bypass analysis |
 | [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / Baggage](./HackTheBox/Labs/Sherlocks/Baggage/README.md) | Added | Shellbag forensic investigation |
 | [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / PhantomRing](./HackTheBox/Labs/Sherlocks/PhantomRing/README.md) | Added | Malware static analysis |
-| [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / MangoBleed](./HackTheBox/Labs/Sherlocks/MangoBleed/README.md) | Added | MongoDB Linux triage and MongoBleed exploitation |
+| [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / MangoBleed](./HackTheBox/Labs/Sherlocks/MangoBleed/README.md) | Added | MongoDB Linux triage |
+| [HackTheBox](./HackTheBox/README.md) | [Labs / Sherlocks / Assistant](./HackTheBox/Labs/Sherlocks/Assistant/README.md) | Added | Windows PCA timeline analysis |
 
 ---
 
